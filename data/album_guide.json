@@ -23,6 +23,78 @@
       "album": "Really the Blues",
       "year": 1940,
       "note": "ソプラノサックスという楽器をジャズの表現手段として確立した名手による録音。ブルース由来の泣きのフレージングが特徴。"
+    },
+    {
+      "artist": "Bunk Johnson",
+      "album": "Bunk Johnson and His Superior Jazz Band",
+      "year": 1942,
+      "note": "一度音楽活動から離れていたトランペッターがニューオーリンズ・ジャズ復興運動の中で再評価された記録。素朴で力強い演奏がリバイバル・ムーブメントの起点の一つとなった。"
+    },
+    {
+      "artist": "Kid Ory",
+      "album": "Kid Ory's Creole Jazz Band",
+      "year": 1945,
+      "note": "トロンボーンによる豪快なテールゲート奏法を確立した奏者による録音。西海岸におけるニューオーリンズ・ジャズ復興の中心的存在だった。"
+    },
+    {
+      "artist": "Eddie Condon",
+      "album": "Treasury of Jazz",
+      "year": 1956,
+      "note": "ギタリストであり顔役でもあったコンドンが束ねたシカゴ・スタイルのジャム・セッション録音。formal なアレンジより勢いと会話性を重んじる作風が特徴。"
+    },
+    {
+      "artist": "Bix Beiderbecke",
+      "album": "Singin' the Blues",
+      "year": 1927,
+      "note": "コルネット奏者による端正で歌心あふれるソロが後世に大きな影響を与えた録音。荒々しさよりも音色の美しさを追求した点で異色の存在だった。"
+    },
+    {
+      "artist": "Muggsy Spanier",
+      "album": "The Ragtime Band Sessions",
+      "year": 1939,
+      "note": "ラグタイム由来のリズム感を色濃く残したシカゴ系奏者による代表的セッション。骨太なコルネットの音色がディキシーランド復興の気運を支えた。"
+    },
+    {
+      "artist": "Original Dixieland Jass Band",
+      "album": "Livery Stable Blues",
+      "year": 1917,
+      "note": "商業的に初めてジャズを録音に収めたとされるバンドによる一枚。動物の鳴き声を模した奏法など、初期ジャズの娯楽性を伝える資料的価値が高い。"
+    },
+    {
+      "artist": "Jimmie Noone",
+      "album": "Jimmie Noone's Apex Club Orchestra",
+      "year": 1928,
+      "note": "滑らかなクラリネットの音色でシカゴのクラブシーンを彩った奏者によるアンサンブル。洗練された和声感覚が後のスウィング期を予感させる。"
+    },
+    {
+      "artist": "Louis Armstrong",
+      "album": "Satchmo at Symphony Hall",
+      "year": 1947,
+      "note": "オールスターズ結成期の充実したライブ録音。ビッグバンド編成から小編成へ回帰し、初期ジャズの精神をあらためて提示した。"
+    },
+    {
+      "artist": "Turk Murphy",
+      "album": "Turk Murphy's Jazz Band",
+      "year": 1950,
+      "note": "サンフランシスコのリバイバル・シーンを牽引したトロンボーン奏者によるバンド録音。伝統様式への忠実さと生々しい熱量を兼ね備える。"
+    },
+    {
+      "artist": "George Lewis",
+      "album": "George Lewis of New Orleans",
+      "year": 1955,
+      "note": "生粋のニューオーリンズ育ちのクラリネット奏者による、素朴で祈りにも似た音色が印象的な一枚。リバイバル・ブームの象徴的存在となった。"
+    },
+    {
+      "artist": "Lu Watters",
+      "album": "Yerba Buena Jazz Band",
+      "year": 1946,
+      "note": "スウィングの流行に背を向け、伝統的なニューオーリンズ様式へ意識的に回帰したバンドによる録音。西海岸ディキシーランド復興運動の出発点。"
+    },
+    {
+      "artist": "Papa Celestin",
+      "album": "Papa Celestin and His Tuxedo Jazz Band",
+      "year": 1954,
+      "note": "ニューオーリンズに残り続けた古参バンドリーダーによる録音。都市を離れなかった奏者たちの生きたスタイルを今に伝える貴重な記録。"
     }
   ],
   "swing": [
@@ -49,6 +121,78 @@
       "album": "Begin the Beguine",
       "year": 1938,
       "note": "クラリネットの名手によるスウィング期屈指のヒット曲を含む録音群。ビッグバンド全盛期のポピュラリティを象徴する。"
+    },
+    {
+      "artist": "Duke Ellington",
+      "album": "Black, Brown and Beige",
+      "year": 1943,
+      "note": "アフリカ系アメリカ人の歴史を音楽で描こうとした大規模組曲。ダンスミュージックの枠を超えた芸術作品としてのビッグバンドを志向した。"
+    },
+    {
+      "artist": "Jimmie Lunceford",
+      "album": "For Dancers Only",
+      "year": 1936,
+      "note": "軽快で洗練されたアレンジと視覚的にも凝ったステージングで人気を博した楽団の録音。ダンスミュージックとしてのスウィングの理想形。"
+    },
+    {
+      "artist": "Chick Webb",
+      "album": "Spinnin' the Webb",
+      "year": 1937,
+      "note": "サヴォイ・ボールルームを本拠にしたドラマー兼リーダーによる、切れ味鋭いリズムが持ち味の録音群。若きエラ・フィッツジェラルドを見出した楽団でもある。"
+    },
+    {
+      "artist": "Cab Calloway",
+      "album": "Minnie the Moocher",
+      "year": 1931,
+      "note": "スキャットを交えた劇場的なパフォーマンスで一世を風靡したリーダーによる代表曲。エンターテインメント性の高いスウィングの一面を示す。"
+    },
+    {
+      "artist": "Lionel Hampton",
+      "album": "Flying Home",
+      "year": 1942,
+      "note": "ヴァイブラフォン奏者によるアップテンポなジャンプ・ナンバー。後のリズム・アンド・ブルースへとつながる高揚感が詰まっている。"
+    },
+    {
+      "artist": "Tommy Dorsey",
+      "album": "I'll Never Smile Again",
+      "year": 1940,
+      "note": "トロンボーン奏者によるスムースなアンサンブルと、若きフランク・シナトラの歌唱が結びついた録音。バラード表現の洗練を示す。"
+    },
+    {
+      "artist": "Woody Herman",
+      "album": "Blowin' Up a Storm",
+      "year": 1945,
+      "note": "「ハード」と称された血気盛んな楽団による疾走感あふれる一枚。スウィングの熱量をビバップ期直前まで引っ張り続けた。"
+    },
+    {
+      "artist": "Harry James",
+      "album": "Ciribiribin",
+      "year": 1939,
+      "note": "輝かしいトランペットの音色を武器にしたリーダーによる人気曲。クラシカルな技巧とポピュラー性を兼ね備えたスタイルが特徴。"
+    },
+    {
+      "artist": "Andy Kirk",
+      "album": "Twelve Clouds of Joy",
+      "year": 1936,
+      "note": "カンザスシティを拠点にした楽団による録音。メアリー・ルー・ウィリアムスの洗練された編曲がバンドの音楽性を支えた。"
+    },
+    {
+      "artist": "Erskine Hawkins",
+      "album": "Tuxedo Junction",
+      "year": 1939,
+      "note": "後にグレン・ミラー楽団のカヴァーでも知られることになる代表曲を生んだリーダーによる録音。ブルース感覚の強いスウィングを聴かせる。"
+    },
+    {
+      "artist": "Jay McShann",
+      "album": "Confessin' the Blues",
+      "year": 1941,
+      "note": "カンザスシティのブルース色濃いスウィングを伝える楽団録音。若き日のチャーリー・パーカーが在籍していたことでも知られる。"
+    },
+    {
+      "artist": "Fletcher Henderson",
+      "album": "Wrappin' It Up",
+      "year": 1934,
+      "note": "ビッグバンド・アレンジの基礎文法を築いた先駆的リーダーによる一枚。後にベニー・グッドマン楽団にも受け継がれた編曲様式の原点。"
     }
   ],
   "vocal-jazz": [
@@ -75,6 +219,78 @@
       "album": "After Midnight",
       "year": 1956,
       "note": "元来は名ピアニストでもあった歌手による、小編成コンボを従えたインティメートな一枚。ポップスとジャズの橋渡し役を担った。"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "album": "In the Wee Small Hours",
+      "year": 1955,
+      "note": "失恋の陰影を一貫したコンセプトで描いたコンセプト・アルバムの先駆け。ジャズのフレージング感覚をポピュラー歌唱に昇華させた。"
+    },
+    {
+      "artist": "Mel Tormé",
+      "album": "Mel Tormé Swings Shubert Alley",
+      "year": 1960,
+      "note": "「ヴェルヴェット・フォグ」と称された柔らかな声質を持つ歌手による、ブロードウェイ・ナンバー集。ビッグバンドとの洗練された対話が聴きどころ。"
+    },
+    {
+      "artist": "Anita O'Day",
+      "album": "Anita O'Day at Mister Kelly's",
+      "year": 1958,
+      "note": "クールで乾いた声質とリズム感覚を武器にした歌手によるライブ盤。感情に溺れない知的なスキャットが個性を放つ。"
+    },
+    {
+      "artist": "Carmen McRae",
+      "album": "Sings Lover Man and Other Billie Holiday Classics",
+      "year": 1962,
+      "note": "敬愛するビリー・ホリデイのレパートリーに独自の解釈を加えた一枚。単なる模倣に終わらない、確固たる自己様式を提示した。"
+    },
+    {
+      "artist": "Betty Carter",
+      "album": "The Audience with Betty Carter",
+      "year": 1980,
+      "note": "テンポやメロディを大胆に解体する即興的な歌唱スタイルを確立した歌手によるライブ録音。ヴォーカルを楽器と同等の即興表現へと押し上げた。"
+    },
+    {
+      "artist": "Lambert, Hendricks & Ross",
+      "album": "Sing a Song of Basie",
+      "year": 1957,
+      "note": "ベイシー楽団の器楽演奏に歌詞を乗せる「ヴォーカリーズ」という手法を確立したグループによる代表作。3声のユニゾンが驚異的な技巧を示す。"
+    },
+    {
+      "artist": "Dinah Washington",
+      "album": "Dinah Jams",
+      "year": 1954,
+      "note": "「ブルースの女王」と称された歌手によるオールスター編成のライブ盤。R&Bとジャズの両方に軸足を置いた表現力が際立つ。"
+    },
+    {
+      "artist": "Joe Williams with Count Basie",
+      "album": "Count Basie Swings, Joe Williams Sings",
+      "year": 1955,
+      "note": "ベイシー楽団専属歌手による代表作。ブルース・シャウターとしての力強さとスウィング感を兼ね備えた歌唱が楽団と渾然一体となる。"
+    },
+    {
+      "artist": "Kurt Elling",
+      "album": "The Messenger",
+      "year": 1995,
+      "note": "詩的な歌詞を即興的に付け加える「ヴォーカリーズ」の伝統を現代に継承した歌手のデビュー作。知性と情熱を兼ね備えた新世代の男性ヴォーカルを提示した。"
+    },
+    {
+      "artist": "Diana Krall",
+      "album": "The Look of Love",
+      "year": 2001,
+      "note": "ピアノ弾き語りを軸に、オーケストラを伴う洗練されたアレンジで往年のスタンダードを再解釈した一枚。現代のジャズ・ヴォーカルの商業的成功例。"
+    },
+    {
+      "artist": "Cassandra Wilson",
+      "album": "Blue Light 'Til Dawn",
+      "year": 1993,
+      "note": "アコースティックな質感とブルース、フォークの語法を取り入れた実験的な歌唱で、ジャズ・ヴォーカルの新たな地平を切り開いた。"
+    },
+    {
+      "artist": "Al Jarreau",
+      "album": "Breakin' Away",
+      "year": 1981,
+      "note": "声を打楽器のように駆使する独自のスキャット唱法で知られる歌手による代表作。ポップスとジャズ・ヴォーカルの境界を軽やかに越えた。"
     }
   ],
   "bebop": [
@@ -101,6 +317,78 @@
       "album": "Genius of Modern Music, Vol. 1",
       "year": 1947,
       "note": "不協和音や大胆な休符を恐れない独自の作曲・演奏スタイルを提示した初期ブルーノート録音集。ビバップの内側にいながら異彩を放つ。"
+    },
+    {
+      "artist": "Charlie Parker",
+      "album": "Bird and Diz",
+      "year": 1952,
+      "note": "パーカーとガレスピーが再び顔を合わせた録音。全盛期を過ぎてなお衰えない即興のスピードと構築力を示す。"
+    },
+    {
+      "artist": "Fats Navarro",
+      "album": "Fat Girl: The Savoy Sessions",
+      "year": 1947,
+      "note": "夭折したトランペッターによる録音集。輝かしい音色と正確無比なテクニックは、後のクリフォード・ブラウンにも影響を残した。"
+    },
+    {
+      "artist": "Kenny Clarke",
+      "album": "Klook's Clique",
+      "year": 1956,
+      "note": "バスドラムに代わりシンバルでタイム感を刻む「モダン・ドラミング」を確立した奏者によるリーダー作。ビバップのリズム革新を体現する。"
+    },
+    {
+      "artist": "Sonny Stitt",
+      "album": "Sonny Stitt/Bud Powell/J.J. Johnson",
+      "year": 1949,
+      "note": "パーカーに強く影響を受けながらも独自のテナー/アルト奏法を磨いた奏者による初期録音。ビバップ語法の伝播を示す好例。"
+    },
+    {
+      "artist": "J.J. Johnson",
+      "album": "The Eminent Jay Jay Johnson, Vol. 1",
+      "year": 1953,
+      "note": "トロンボーンでビバップの高速フレーズを演奏可能にした先駆者によるリーダー作。従来「不器用」とされた楽器のイメージを一新した。"
+    },
+    {
+      "artist": "Tadd Dameron",
+      "album": "Fontainebleau",
+      "year": 1956,
+      "note": "作曲家肌のピアニストによる組曲形式の意欲作。ビバップの語法に洗練された和声とオーケストレーションを持ち込んだ。"
+    },
+    {
+      "artist": "Al Haig",
+      "album": "Al Haig Trio",
+      "year": 1954,
+      "note": "パーカーやガレスピーのセッションを支えた伴奏者としても知られるピアニストによるトリオ作。端正でリリカルなタッチが特徴。"
+    },
+    {
+      "artist": "Milt Jackson",
+      "album": "Wizard of the Vibes",
+      "year": 1952,
+      "note": "ヴァイブラフォンにビバップのフレージングを持ち込んだ奏者による初期リーダー作。硬質になりがちな楽器から温かみのある音色を引き出した。"
+    },
+    {
+      "artist": "Dexter Gordon",
+      "album": "Long Tall Dexter",
+      "year": 1947,
+      "note": "テナーサックスにビバップ語法を本格的に導入した先駆者による初期録音。朗々としたトーンと余裕あるフレージングが個性。"
+    },
+    {
+      "artist": "Oscar Pettiford",
+      "album": "The New Oscar Pettiford Sextet",
+      "year": 1953,
+      "note": "ベースにソロ楽器としての可能性を切り開いた奏者によるリーダー作。チェロも操る多才さがアンサンブルに独特の色彩を加える。"
+    },
+    {
+      "artist": "Bud Powell",
+      "album": "The Amazing Bud Powell, Vol. 2",
+      "year": 1953,
+      "note": "前作に続くブルーノート録音。心身の不調と向き合いながらも、なお衰えぬ疾走感と創造性を刻んだ記録として知られる。"
+    },
+    {
+      "artist": "Dizzy Gillespie",
+      "album": "Dizzy Gillespie at Newport",
+      "year": 1957,
+      "note": "ビッグバンド編成でビバップを再構築したライブ録音。国務省の後押しで海外公演も行った「ジャズ大使」時代の充実ぶりを伝える。"
     }
   ],
   "latin-jazz": [
@@ -127,6 +415,78 @@
       "album": "Soul Sauce",
       "year": 1965,
       "note": "ヴァイブラフォン奏者によるラテン・ジャズとソウルジャズの交差点。ポップな親しみやすさとラテン・グルーヴを両立させた。"
+    },
+    {
+      "artist": "Machito & His Afro-Cubans",
+      "album": "Kenya",
+      "year": 1957,
+      "note": "アフロ・キューバン・ジャズの礎を築いたビッグバンドによる代表作。分厚いブラスとパーカッションが渾然一体となった熱量の高い一枚。"
+    },
+    {
+      "artist": "Mongo Santamaria",
+      "album": "Watermelon Man",
+      "year": 1963,
+      "note": "ハービー・ハンコック作の同名曲をラテン・グルーヴでヒットさせた打楽器奏者による一枚。ソウルジャズとラテン・ジャズの融合を象徴する。"
+    },
+    {
+      "artist": "Chico O'Farrill",
+      "album": "Afro-Cuban Jazz Suite",
+      "year": 1950,
+      "note": "クラシックの語法とアフロ・キューバンのリズムを組曲形式で結びつけた作編曲家による意欲作。ラテン・ジャズの芸術性を押し広げた。"
+    },
+    {
+      "artist": "Antonio Carlos Jobim",
+      "album": "The Composer of Desafinado, Plays",
+      "year": 1963,
+      "note": "ボサノヴァの立役者自身によるインストゥルメンタル作。作曲家としての抑制された美意識がオーケストレーションに映し出されている。"
+    },
+    {
+      "artist": "Stan Getz & Charlie Byrd",
+      "album": "Jazz Samba",
+      "year": 1962,
+      "note": "テナーサックスとギターによるボサノヴァ導入盤。「Desafinado」のヒットで、アメリカにおけるボサノヴァ・ブームの火付け役となった。"
+    },
+    {
+      "artist": "Eddie Palmieri",
+      "album": "Sun of Latin Music",
+      "year": 1974,
+      "note": "サルサとジャズの語法を大胆に融合させたピアニスト/バンドリーダーによる意欲作。ラテン音楽におけるジャズ的即興の可能性を広げた。"
+    },
+    {
+      "artist": "Cal Tjader",
+      "album": "Cal Tjader Plays the Contemporary Music of Mexico and Brazil",
+      "year": 1962,
+      "note": "ヴァイブラフォン奏者によるラテン・アメリカ諸国の音楽への目配りを示す一枚。多様なリズムをジャズの語法で消化している。"
+    },
+    {
+      "artist": "Tito Rodríguez",
+      "album": "Live at Birdland",
+      "year": 1959,
+      "note": "マンボ・ブームを牽引したバンドリーダーによるジャズの殿堂でのライブ録音。ダンスミュージックとしての機能美と演奏の充実を兼ね備える。"
+    },
+    {
+      "artist": "Ray Barretto",
+      "album": "Together",
+      "year": 1969,
+      "note": "コンガ奏者によるラテン・ジャズとブーガルーの交差点を示す一枚。パーカッションを前面に押し出したグルーヴが持ち味。"
+    },
+    {
+      "artist": "Willie Bobo",
+      "album": "Spanish Grease",
+      "year": 1965,
+      "note": "ティンバレス奏者によるラテン・ソウルジャズの好例。都会的で洗練されたグルーヴがクラブシーンにも支持された。"
+    },
+    {
+      "artist": "Sabu Martinez",
+      "album": "Palo Congo",
+      "year": 1957,
+      "note": "アフロ・キューバンの宗教儀礼的リズムをジャズの文脈に持ち込んだ打楽器奏者による野心作。呪術的とも言える熱量が特徴。"
+    },
+    {
+      "artist": "Poncho Sanchez",
+      "album": "Bien Sabroso!",
+      "year": 1983,
+      "note": "カル・ジェイダー譲りのラテン・ジャズを継承したコンガ奏者による代表作の一つ。伝統的なアフロ・キューバン・ジャズを現代に受け継いだ。"
     }
   ],
   "cool-jazz": [
@@ -153,6 +513,78 @@
       "album": "The Original Quartet with Chet Baker",
       "year": 1953,
       "note": "ピアノレスという編成で、バリトンサックスとトランペットが対位法的に絡み合う清涼な響きを作り出した。"
+    },
+    {
+      "artist": "Lennie Tristano",
+      "album": "Lennie Tristano",
+      "year": 1955,
+      "note": "多重録音やテープ編集を大胆に取り入れた理知的なピアニストによる実験作。クールジャズの知的側面を代表する存在。"
+    },
+    {
+      "artist": "Lee Konitz",
+      "album": "Subconscious-Lee",
+      "year": 1949,
+      "note": "パーカーとは異なるアルトサックスの語法を模索した奏者による初期録音。乾いた音色と直線的なフレージングがクールの美学を体現する。"
+    },
+    {
+      "artist": "Stan Getz",
+      "album": "West Coast Jazz",
+      "year": 1955,
+      "note": "「ザ・サウンド」と称された柔らかなテナーの音色を存分に生かした一枚。西海岸の洗練されたセッション・ミュージシャンとの相性の良さが光る。"
+    },
+    {
+      "artist": "Paul Desmond",
+      "album": "Take Ten",
+      "year": 1963,
+      "note": "ブルーベック楽団のアルト奏者による端正な一枚。「Take Five」の続編的な変拍子曲を含み、軽やかで詩的な音色が持ち味。"
+    },
+    {
+      "artist": "Shorty Rogers",
+      "album": "Cool and Crazy",
+      "year": 1953,
+      "note": "西海岸クールジャズを支えた作編曲家/トランペッターによるビッグバンド作。緻密なヴォイシングとリラックスした空気感が共存する。"
+    },
+    {
+      "artist": "Shelly Manne & His Friends",
+      "album": "My Fair Lady",
+      "year": 1956,
+      "note": "ミュージカル楽曲をジャズ・トリオで再解釈するという着想の先駆けとなった一枚。ドラマーがリーダーである点も西海岸的な柔軟さを示す。"
+    },
+    {
+      "artist": "Jimmy Giuffre",
+      "album": "The Jimmy Giuffre 3",
+      "year": 1957,
+      "note": "ドラムレス編成で室内楽的な静謐さを追求したクラリネット/サックス奏者による作品。フォークロア的な旋律感覚も特徴的。"
+    },
+    {
+      "artist": "Modern Jazz Quartet",
+      "album": "Django",
+      "year": 1956,
+      "note": "クラシックの対位法とブルースを結びつけた室内楽的アンサンブル。ジャンゴ・ラインハルトへの追悼曲が代表曲となった。"
+    },
+    {
+      "artist": "Art Pepper",
+      "album": "Meets the Rhythm Section",
+      "year": 1957,
+      "note": "マイルス・デイヴィスのリズム隊を迎えて一発録りされた西海岸クールジャズの名盤。緊張感と即興の閃きが同居する。"
+    },
+    {
+      "artist": "Chico Hamilton",
+      "album": "Chico Hamilton Quintet",
+      "year": 1955,
+      "note": "チェロやフルートを含む異色編成で室内楽的な質感を追求したドラマー/リーダーによる作品。西海岸ジャズの多様性を示す。"
+    },
+    {
+      "artist": "June Christy",
+      "album": "Something Cool",
+      "year": 1954,
+      "note": "ケントン楽団出身の歌手による、都会的で陰影に富んだヴォーカル作。クールジャズの美意識を歌唱で体現した一枚。"
+    },
+    {
+      "artist": "Zoot Sims",
+      "album": "Down Home",
+      "year": 1960,
+      "note": "スウィングの語法をクールな感触で歌わせるテナー奏者による一枚。技巧を誇示せず自然体で歌うようなフレージングが持ち味。"
     }
   ],
   "hard-bop": [
@@ -185,6 +617,72 @@
       "album": "Somethin' Else",
       "year": 1958,
       "note": "マイルス・デイヴィスがサイドマンとして参加した異例の一枚。「Autumn Leaves」の名演で知られる、洗練と親しみやすさの共存作。"
+    },
+    {
+      "artist": "Lee Morgan",
+      "album": "Candy",
+      "year": 1958,
+      "note": "若きトランペッターによる叙情的なバラード表現が光る初期リーダー作。後の「The Sidewinder」に至る成長の過程を示す。"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "album": "Ready for Freddie",
+      "year": 1961,
+      "note": "輝かしい音色と圧倒的な技巧を兼ね備えた若手トランペッターによる充実作。ハードバップの高い演奏水準を象徴する。"
+    },
+    {
+      "artist": "Hank Mobley",
+      "album": "Soul Station",
+      "year": 1960,
+      "note": "「地味だが玄人好み」と評されたテナー奏者による代表作。円熟したメロディ感覚とリラックスしたスウィング感が魅力。"
+    },
+    {
+      "artist": "Jackie McLean",
+      "album": "Let Freedom Ring",
+      "year": 1962,
+      "note": "パーカー直系のアルト奏法を持ちながらフリー・ジャズへの接近も試みた奏者による転換点的作品。ハードバップの枠を押し広げた。"
+    },
+    {
+      "artist": "Kenny Dorham",
+      "album": "Whistle Stop",
+      "year": 1961,
+      "note": "堅実な作曲力と味わい深いトランペットで知られる奏者によるリーダー作。派手さより構成の妙で聴かせるハードバップの好例。"
+    },
+    {
+      "artist": "Wayne Shorter",
+      "album": "Night Dreamer",
+      "year": 1964,
+      "note": "ブルーノート初のリーダー作。神秘的な曲想とハードバップの語法が交差する、後の作風への布石となった一枚。"
+    },
+    {
+      "artist": "Joe Henderson",
+      "album": "Page One",
+      "year": 1963,
+      "note": "「Blue Bossa」を含むデビュー作。ラテンのリズム感覚とハードバップの緊張感を巧みに同居させた。"
+    },
+    {
+      "artist": "Bobby Timmons",
+      "album": "This Here Is Bobby Timmons",
+      "year": 1960,
+      "note": "ジャズ・メッセンジャーズで「ファンキー・ジャズ」の作曲家として名を馳せたピアニストによるリーダー作。ゴスペル由来の躍動感が持ち味。"
+    },
+    {
+      "artist": "Art Farmer & Benny Golson",
+      "album": "Meet the Jazztet",
+      "year": 1960,
+      "note": "トランペットとテナーサックスの双頭バンドによる結成第一作。丁寧なアレンジと均整の取れたアンサンブルが特徴。"
+    },
+    {
+      "artist": "Donald Byrd",
+      "album": "Byrd in Hand",
+      "year": 1959,
+      "note": "堅実な様式美と若々しい推進力を兼ね備えたトランペッターによる一枚。後年のファンク転向以前の正統派ハードバップを示す。"
+    },
+    {
+      "artist": "Blue Mitchell",
+      "album": "Blue's Moods",
+      "year": 1960,
+      "note": "温かみのある音色と歌心あふれるフレージングで知られるトランペッターによるリーダー作。派手さより情感を重視した演奏が魅力。"
     }
   ],
   "soul-jazz": [
@@ -211,6 +709,78 @@
       "album": "The In Crowd",
       "year": 1965,
       "note": "ライブ録音のカヴァー曲が全米ヒットチャートに入るという異例の成功を収めた、ポップに開かれたソウルジャズの好例。"
+    },
+    {
+      "artist": "Stanley Turrentine",
+      "album": "That's Where It's At",
+      "year": 1962,
+      "note": "ブルースとゴスペルの語法を色濃く残したテナー奏者によるリーダー作。太く濃厚なトーンがソウルジャズの温度感を体現する。"
+    },
+    {
+      "artist": "Grant Green",
+      "album": "Idle Moments",
+      "year": 1963,
+      "note": "シンプルで的確なフレーズを積み重ねる奏法で知られるギタリストによる代表作。表題曲の長尺な展開が瞑想的な余韻を残す。"
+    },
+    {
+      "artist": "Wes Montgomery",
+      "album": "Boss Guitar",
+      "year": 1963,
+      "note": "親指弾きとオクターブ奏法で独自のギター語法を確立した奏者による一枚。オルガン・トリオ編成でソウルジャズの温かみを表現した。"
+    },
+    {
+      "artist": "Brother Jack McDuff",
+      "album": "The Honeydripper",
+      "year": 1961,
+      "note": "ハモンドオルガンの野太いグルーヴを前面に押し出したオルガン奏者によるリーダー作。ジョージ・ベンソンら若手を育てた場としても知られる。"
+    },
+    {
+      "artist": "Charles Earland",
+      "album": "Black Talk!",
+      "year": 1969,
+      "note": "ファンクの色濃いリズムとオルガンのグルーヴを結びつけた一枚。ソウルジャズが70年代へと変容していく過渡期を示す。"
+    },
+    {
+      "artist": "Reuben Wilson",
+      "album": "On Broadway",
+      "year": 1968,
+      "note": "ブーガルーとオルガン・ジャズを結びつけたオルガン奏者による代表作。ダンサブルなグルーヴがクラブシーンでも再評価された。"
+    },
+    {
+      "artist": "Houston Person",
+      "album": "Trust in Me",
+      "year": 1968,
+      "note": "太く親しみやすいテナーの音色でスタンダードを歌わせる奏者による一枚。技巧よりも歌心を重視するソウルジャズの美学を体現する。"
+    },
+    {
+      "artist": "Shirley Scott",
+      "album": "Hip Soul",
+      "year": 1961,
+      "note": "「クイーン・オブ・ジ・オルガン」と称された女性奏者による代表作。均整の取れたスウィング感と気品あるグルーヴが持ち味。"
+    },
+    {
+      "artist": "Johnny Hammond Smith",
+      "album": "Talk That Talk",
+      "year": 1965,
+      "note": "ハモンドオルガンの名手による親しみやすいグルーヴ重視の一枚。ジュークボックスにも似合う気軽さがソウルジャズの一面を示す。"
+    },
+    {
+      "artist": "Gene Ammons",
+      "album": "Boss Tenor",
+      "year": 1960,
+      "note": "ブルース色濃い豪快なテナーの音色で人気を博した奏者による代表作。シンプルなメロディを説得力豊かに歌わせる。"
+    },
+    {
+      "artist": "Cannonball Adderley",
+      "album": "Mercy, Mercy, Mercy! Live at \"The Club\"",
+      "year": 1966,
+      "note": "ジョー・ザヴィヌル作の表題曲が大ヒットしたライブ盤。ゴスペルとファンクの高揚感がソウルジャズの祝祭性を象徴する。"
+    },
+    {
+      "artist": "Richard Groove Holmes",
+      "album": "Soul Message",
+      "year": 1965,
+      "note": "力強く重心の低いオルガンのグルーヴで知られる奏者による代表作。タイトル通り、ソウルジャズの本質を体現する一枚。"
     }
   ],
   "modal-jazz": [
@@ -237,6 +807,78 @@
       "album": "The Real McCoy",
       "year": 1967,
       "note": "コルトレーン・カルテットのピアニストによるリーダー作。四度堆積の和声とモード奏法を独自の語法へと洗練させた。"
+    },
+    {
+      "artist": "John Coltrane",
+      "album": "Africa/Brass",
+      "year": 1961,
+      "note": "大編成のブラス・アンサンブルを従え、モード奏法をよりスケールの大きな響きへと展開した意欲作。"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Milestones",
+      "year": 1958,
+      "note": "表題曲でモード的なアプローチを先取りした、「Kind of Blue」への布石となる転換点的作品。"
+    },
+    {
+      "artist": "Bill Evans",
+      "album": "Everybody Digs Bill Evans",
+      "year": 1958,
+      "note": "繊細な和声感覚と間の使い方で知られるピアニストによる初期リーダー作。マイルス・バンド参加直前の音楽性を示す。"
+    },
+    {
+      "artist": "Wayne Shorter",
+      "album": "Adam's Apple",
+      "year": 1966,
+      "note": "モード的な曲構成と親しみやすいメロディを同居させたリーダー作。作曲家としての成熟が際立つ一枚。"
+    },
+    {
+      "artist": "Elvin Jones",
+      "album": "Elvin!",
+      "year": 1962,
+      "note": "コルトレーン・カルテットを支えた多面的なポリリズムで知られるドラマーによるリーダー作。モードジャズにおけるリズムの自由度を示す。"
+    },
+    {
+      "artist": "Pharoah Sanders",
+      "album": "Karma",
+      "year": 1969,
+      "note": "「The Creator Has a Master Plan」を含む霊的で高揚感あふれる組曲作。モードジャズとフリー・ジャズの折衷を体現する。"
+    },
+    {
+      "artist": "Alice Coltrane",
+      "album": "Journey in Satchidananda",
+      "year": 1971,
+      "note": "ハープと東洋的な旋法を取り入れた瞑想的なサウンドを追求した一枚。モードジャズの精神性をさらに拡張した。"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "album": "Eastern Sounds",
+      "year": 1961,
+      "note": "中東やアジアの楽器・旋法をジャズに取り入れた先駆的作品。モードジャズが持つ異文化への開放性を早くから体現していた。"
+    },
+    {
+      "artist": "Ahmad Jamal",
+      "album": "At the Pershing: But Not for Me",
+      "year": 1958,
+      "note": "間と空間を大胆に使う簡潔な奏法で知られるピアニストによるライブ盤。マイルス・デイヴィスにも影響を与えたとされる。"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "album": "Breaking Point!",
+      "year": 1964,
+      "note": "モード的な語法とやや実験的な作曲を組み合わせたトランペッターによる意欲作。ハードバップからの発展を示す。"
+    },
+    {
+      "artist": "McCoy Tyner",
+      "album": "Tender Moments",
+      "year": 1967,
+      "note": "四度堆積和声を得意とするピアニストによる、金管を含む大編成での作編曲作。モードジャズの響きをオーケストラルに広げた。"
+    },
+    {
+      "artist": "Grachan Moncur III",
+      "album": "Evolution",
+      "year": 1963,
+      "note": "トロンボーン奏者による寡作ながら評価の高いリーダー作。モードジャズとフリーの間を行き来する暗く硬質な響きが特徴。"
     }
   ],
   "free-jazz": [
@@ -263,6 +905,78 @@
       "album": "Spiritual Unity",
       "year": 1964,
       "note": "民謡やマーチ風の単純なメロディを土台に、絶叫にも似た激しいテナーサックスの即興を展開。フリージャズの霊性を体現する1作。"
+    },
+    {
+      "artist": "Cecil Taylor",
+      "album": "Unit Structures",
+      "year": 1966,
+      "note": "ピアノを打楽器的に扱う圧倒的な技巧と密度で知られるピアニストによる代表作。構築性と即興性が高い次元で拮抗する。"
+    },
+    {
+      "artist": "Eric Dolphy",
+      "album": "Out to Lunch",
+      "year": 1964,
+      "note": "アルトサックス、バスクラリネット、フルートを操る多才な奏者による最後のリーダー作。角ばったリズムと不協和音が独特の緊張感を生む。"
+    },
+    {
+      "artist": "Sun Ra",
+      "album": "The Heliocentric Worlds of Sun Ra, Vol. 1",
+      "year": 1965,
+      "note": "電子楽器と宇宙的なコンセプトを取り入れたビッグバンドによる急進的作品。フリー・ジャズとSF的世界観を融合させた。"
+    },
+    {
+      "artist": "Archie Shepp",
+      "album": "Fire Music",
+      "year": 1965,
+      "note": "公民権運動の時代精神を色濃く反映したテナー奏者による作品。政治的なメッセージ性とフリーな即興が結びついている。"
+    },
+    {
+      "artist": "Don Cherry",
+      "album": "Complete Communion",
+      "year": 1966,
+      "note": "ポケット・トランペットを操る奏者による、複数の楽曲を切れ目なくつなぐ組曲形式の意欲作。フリー・ジャズに新しい構成美を持ち込んだ。"
+    },
+    {
+      "artist": "Anthony Braxton",
+      "album": "For Alto",
+      "year": 1969,
+      "note": "アルトサックスの完全ソロという前例のない形式に挑んだ意欲作。現代音楽的な語法とフリー・ジャズの即興性を結びつけた。"
+    },
+    {
+      "artist": "Roscoe Mitchell",
+      "album": "Sound",
+      "year": 1966,
+      "note": "AACM(前衛芸術家音楽家協会)の中心人物による静寂と間を重視した実験作。音の密度よりも空間の使い方に主眼を置く。"
+    },
+    {
+      "artist": "Charlie Haden",
+      "album": "Liberation Music Orchestra",
+      "year": 1969,
+      "note": "スペイン内戦の抵抗歌などを題材にした政治色濃いビッグバンド作。フリー・ジャズと社会的メッセージを結びつけた稀有な例。"
+    },
+    {
+      "artist": "Marion Brown",
+      "album": "Three for Shepp",
+      "year": 1966,
+      "note": "アーチー・シェップとの縁の深いアルト奏者によるリーダー作。叙情性を残しながらフリーな即興へと踏み込む中庸的な魅力を持つ。"
+    },
+    {
+      "artist": "Sam Rivers",
+      "album": "Fuchsia Swing Song",
+      "year": 1964,
+      "note": "伝統的なハードバップの形式を保ちながら、内側から解体していくような即興を展開した奏者による一枚。"
+    },
+    {
+      "artist": "Ornette Coleman",
+      "album": "Science Fiction",
+      "year": 1972,
+      "note": "旧知のメンバーに加え新世代の奏者も迎えた実験作。フリー・ジャズの語法にさらなる多様性を持ち込んだ。"
+    },
+    {
+      "artist": "Albert Ayler",
+      "album": "Spirits Rejoice",
+      "year": 1965,
+      "note": "軍隊マーチや讃美歌風の単純な旋律を土台に激しい即興を積み上げる、フリー・ジャズにおける独自の霊性を示す一枚。"
     }
   ],
   "post-bop": [
@@ -289,6 +1003,78 @@
       "album": "Nefertiti",
       "year": 1968,
       "note": "ソリストではなくリズム隊が主導権を握るという逆転の発想で作られた実験作。第2次黄金クインテットの到達点。"
+    },
+    {
+      "artist": "Miles Davis Quintet",
+      "album": "E.S.P.",
+      "year": 1965,
+      "note": "第2次黄金クインテットによる新作曲主体のスタジオ盤。従来のスタンダード中心のレパートリーから脱却した転換点。"
+    },
+    {
+      "artist": "Miles Davis Quintet",
+      "album": "Miles Smiles",
+      "year": 1967,
+      "note": "リズムの自由度がさらに高まったクインテットによる作品。「タイム・ノー・チェンジズ」という手法が確立された重要作。"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "album": "Empyrean Isles",
+      "year": 1964,
+      "note": "「Cantaloupe Island」を含む、モードとハードバップの折衷が洗練された形で結実したリーダー作。"
+    },
+    {
+      "artist": "Tony Williams",
+      "album": "Life Time",
+      "year": 1964,
+      "note": "十代でマイルス・バンドに参加した天才ドラマーによる早熟なリーダー作。フリーとポストバップの境界を軽やかに行き来する。"
+    },
+    {
+      "artist": "Bobby Hutcherson",
+      "album": "Dialogue",
+      "year": 1965,
+      "note": "ヴァイブラフォン奏者による前衛的な作編曲作。従来の楽器イメージを超えた響きの実験が随所に見られる。"
+    },
+    {
+      "artist": "Woody Shaw",
+      "album": "Blackstone Legacy",
+      "year": 1970,
+      "note": "複雑な和声とモードを自在に操るトランペッターによる意欲作。ポストバップの語法をさらに拡張した世代を代表する。"
+    },
+    {
+      "artist": "Chick Corea",
+      "album": "Now He Sings, Now He Sobs",
+      "year": 1968,
+      "note": "後のフュージョン期以前、アコースティック・トリオでの卓越した即興力を示したピアニストによる代表作。"
+    },
+    {
+      "artist": "Wayne Shorter",
+      "album": "The All Seeing Eye",
+      "year": 1965,
+      "note": "大編成での神秘的かつ宇宙的なコンセプトを追求した作編曲作。ハードバップの枠を超えた作曲家としての野心が表れている。"
+    },
+    {
+      "artist": "Larry Young",
+      "album": "Unity",
+      "year": 1965,
+      "note": "オルガンにモード奏法とフリーの語法を持ち込んだ奏者による代表作。「ジョン・コルトレーンのオルガン版」と評されることもある。"
+    },
+    {
+      "artist": "Joe Henderson",
+      "album": "Inner Urge",
+      "year": 1964,
+      "note": "モード的な楽曲構成をより緊密に押し進めたテナー奏者による作品。骨太な即興とリズム的な緊張感が持ち味。"
+    },
+    {
+      "artist": "Sam Rivers",
+      "album": "Contours",
+      "year": 1965,
+      "note": "伝統的な形式と前衛的な即興が緊密に組み合わさった作品。ブルーノート期における実験的録音群の一つ。"
+    },
+    {
+      "artist": "Grant Green",
+      "album": "Matador",
+      "year": 1965,
+      "note": "モード的な楽曲をギターで解釈した意欲作。通常のソウルジャズ路線とは異なる、より内省的な側面を見せる。"
     }
   ],
   "jazz-fusion": [
@@ -315,6 +1101,78 @@
       "album": "The Inner Mounting Flame",
       "year": 1971,
       "note": "変拍子とハイスピードなユニゾンで、ジャズとロックの超絶技巧を融合。ジョン・マクラフリンのギターが牽引する激烈な1作。"
+    },
+    {
+      "artist": "Return to Forever",
+      "album": "Return to Forever",
+      "year": 1972,
+      "note": "チック・コリアが結成したグループによるデビュー作。ブラジル音楽由来の軽やかなリズムとエレクトリックな響きが特徴。"
+    },
+    {
+      "artist": "Return to Forever",
+      "album": "Romantic Warrior",
+      "year": 1976,
+      "note": "シンセサイザーを駆使した壮大なコンセプト作。超絶技巧の応酬とファンタジー的な世界観がフュージョンの一つの頂点を示す。"
+    },
+    {
+      "artist": "Weather Report",
+      "album": "Weather Report",
+      "year": 1971,
+      "note": "ジョー・ザヴィヌルとウェイン・ショーターによる結成第一作。フリーな集団即興とエレクトロニクスが渾然一体となっている。"
+    },
+    {
+      "artist": "Tony Williams Lifetime",
+      "album": "Emergency!",
+      "year": 1969,
+      "note": "オルガンとギターを主体にした激烈なグルーヴで、ロックとジャズを暴力的なまでに融合させた先駆的作品。"
+    },
+    {
+      "artist": "John McLaughlin",
+      "album": "Extrapolation",
+      "year": 1969,
+      "note": "後にマハヴィシュヌ・オーケストラを率いるギタリストによる英国での初リーダー作。フリー・ジャズとロックの語法が交錯する。"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "In a Silent Way",
+      "year": 1969,
+      "note": "エレクトリック・ピアノとギターを導入し、静謐で瞑想的な質感を追求した、フュージョン期への移行を告げる作品。"
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "album": "Jaco Pastorius",
+      "year": 1976,
+      "note": "フレットレス・ベースの表現力を飛躍的に拡張した奏者によるリーダー作。ベースをソロ楽器として確立させた革新的な一枚。"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "album": "Pat Metheny Group",
+      "year": 1978,
+      "note": "透明感のあるギターの音色と牧歌的なメロディで独自のフュージョン様式を築いたグループの結成作。"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "album": "School Days",
+      "year": 1976,
+      "note": "エレクトリック・ベースの超絶技巧を前面に押し出したリーダー作。ファンクのグルーヴとフュージョンの技巧性を結びつけた。"
+    },
+    {
+      "artist": "Billy Cobham",
+      "album": "Spectrum",
+      "year": 1973,
+      "note": "圧倒的なテクニックを持つドラマーによるリーダー作。ロックのパワーとジャズの複雑さを両立させたフュージョンの名盤。"
+    },
+    {
+      "artist": "George Duke",
+      "album": "The Aura Will Prevail",
+      "year": 1975,
+      "note": "シンセサイザーを駆使した多彩な音色で知られるキーボード奏者による意欲作。ファンクとフュージョンの融合を示す。"
+    },
+    {
+      "artist": "Al Di Meola",
+      "album": "Elegant Gypsy",
+      "year": 1977,
+      "note": "超高速のピッキングとラテンの語法を融合させたギタリストによる代表作。フュージョン期における技巧至上主義を象徴する。"
     }
   ],
   "smooth-jazz": [
@@ -341,6 +1199,78 @@
       "album": "Duotones",
       "year": 1986,
       "note": "「Songbird」の大ヒットにより、スムースジャズという言葉を一般層にまで広めた商業的金字塔。"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "album": "Morning Dance",
+      "year": 1979,
+      "note": "キャッチーなメロディと軽快なグルーヴで人気を博したグループの出世作。フュージョンからスムースジャズへの橋渡しを担った。"
+    },
+    {
+      "artist": "David Sanborn",
+      "album": "Voyeur",
+      "year": 1981,
+      "note": "鋭くソウルフルなアルトサックスの音色で知られる奏者による一枚。ファンクとポップスの語感をジャズに持ち込んだ。"
+    },
+    {
+      "artist": "Earl Klugh",
+      "album": "Living Inside Your Love",
+      "year": 1976,
+      "note": "ナイロン弦ギターの温かい音色を生かしたインストゥルメンタル作品。静かで親密な雰囲気がスムースジャズの一つの理想形を示す。"
+    },
+    {
+      "artist": "Chuck Mangione",
+      "album": "Feels So Good",
+      "year": 1977,
+      "note": "フリューゲルホルンの柔らかな音色を生かした表題曲が大ヒットしたアルバム。親しみやすいメロディでジャズを一般層に広げた。"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "album": "Rit",
+      "year": 1981,
+      "note": "多彩なギター・スタイルを操るスタジオ・ミュージシャン出身の奏者によるリーダー作。ポップスの洗練さをジャズに取り込んだ。"
+    },
+    {
+      "artist": "Fourplay",
+      "album": "Fourplay",
+      "year": 1991,
+      "note": "実力派スタジオ・ミュージシャンによるスーパーグループの結成作。技巧と親しみやすさを両立させたスムースジャズの代表格。"
+    },
+    {
+      "artist": "Boney James",
+      "album": "Sweet Thing",
+      "year": 1997,
+      "note": "R&Bのグルーヴ感覚を色濃く反映したサックス奏者による作品。90年代スムースジャズの商業的成功例の一つ。"
+    },
+    {
+      "artist": "Rick Braun",
+      "album": "Beat Street",
+      "year": 1995,
+      "note": "都会的で軽快なトランペットの音色を特徴とする奏者によるリーダー作。ラジオ向けの洗練されたサウンドを追求した。"
+    },
+    {
+      "artist": "Norman Brown",
+      "album": "Just Between Us",
+      "year": 1992,
+      "note": "R&Bギタリスト譲りのグルーヴ感覚を持つ奏者によるデビュー作。スムースジャズにおけるギターの新しい可能性を示した。"
+    },
+    {
+      "artist": "Acoustic Alchemy",
+      "album": "Reference Point",
+      "year": 1990,
+      "note": "スティール弦とナイロン弦の2本のギターを軸にした英国出身デュオによる作品。爽やかで牧歌的なサウンドが特徴。"
+    },
+    {
+      "artist": "Dave Koz",
+      "album": "Dave Koz",
+      "year": 1990,
+      "note": "ポップス的な親しみやすさを備えたサックス奏者によるデビュー作。90年代スムースジャズの隆盛を支えた存在の一人。"
+    },
+    {
+      "artist": "Najee",
+      "album": "Najee's Theme",
+      "year": 1986,
+      "note": "サックスとフルートを操る奏者によるデビュー作。ファンクとR&Bの語感を柔らかく取り込んだサウンドが持ち味。"
     }
   ],
   "acid-jazz": [
@@ -367,6 +1297,78 @@
       "album": "Groove Collective",
       "year": 1994,
       "note": "ニューヨークのクラブシーンから生まれた大所帯グループによる、ラテン・ファンク・ジャズを横断するダンサブルな1作。"
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "album": "The Low End Theory",
+      "year": 1991,
+      "note": "ジャズのベースラインとヒップホップのビートを緊密に結びつけた金字塔的作品。ロン・カーターの参加でも知られる。"
+    },
+    {
+      "artist": "Guru",
+      "album": "Jazzmatazz, Vol. 1",
+      "year": 1993,
+      "note": "現役のジャズ・ミュージシャンを生演奏で迎え、ラップと融合させた画期的な企画作。ジャズ・ラップというジャンルの代表格。"
+    },
+    {
+      "artist": "The Brand New Heavies",
+      "album": "The Brand New Heavies",
+      "year": 1990,
+      "note": "英国発のアシッドジャズ・ムーブメントを牽引したバンドによるデビュー作。ファンクとソウルジャズの語法を現代的に再構築した。"
+    },
+    {
+      "artist": "Jamiroquai",
+      "album": "Emergency on Planet Earth",
+      "year": 1993,
+      "note": "70年代ファンクとアシッドジャズの語感を折衷したバンドによるデビュー作。ダンスミュージックとしての強度も兼ね備える。"
+    },
+    {
+      "artist": "Incognito",
+      "album": "Positivity",
+      "year": 1993,
+      "note": "英国ジャズ・ファンク・シーンのベテランによる作品。豪華なゲストを迎えた洗練されたグルーヴが持ち味。"
+    },
+    {
+      "artist": "Galliano",
+      "album": "In Pursuit of the 13th Note",
+      "year": 1994,
+      "note": "英国アシッドジャズ・シーンの源流に位置するグループによる作品。詩的な語りとジャズ・ファンクの融合が特徴的。"
+    },
+    {
+      "artist": "St. Germain",
+      "album": "Tourist",
+      "year": 2000,
+      "note": "ハウス・ミュージックとジャズの語法を融合させたフランス人アーティストによる代表作。クラブとジャズの垣根を越えた成功例。"
+    },
+    {
+      "artist": "Nils Petter Molvaer",
+      "album": "Khmer",
+      "year": 1997,
+      "note": "エレクトロニクスとジャズ・トランペットを融合させたノルウェー出身奏者による意欲作。ヌー・ジャズの先駆的存在。"
+    },
+    {
+      "artist": "Jazzanova",
+      "album": "In Between",
+      "year": 2002,
+      "note": "ドイツ発のプロデューサー集団による作品。DJ的な感性でジャズのサンプルとハウスのビートを織り交ぜた。"
+    },
+    {
+      "artist": "The Roots",
+      "album": "Do You Want More?!!!??!",
+      "year": 1995,
+      "note": "生演奏によるヒップホップを追求したバンドによる作品。ジャズの即興性をヒップホップの文脈に持ち込んだ先駆的存在。"
+    },
+    {
+      "artist": "Corduroy",
+      "album": "High Life",
+      "year": 1993,
+      "note": "英国アシッドジャズ・シーンのインストゥルメンタル・バンドによる作品。60年代ソウルジャズへのオマージュに満ちた軽快さが持ち味。"
+    },
+    {
+      "artist": "Ronny Jordan",
+      "album": "The Antidote",
+      "year": 1992,
+      "note": "ジャズ・ギターにヒップホップのビート感覚を取り入れた奏者によるデビュー作。アシッドジャズにおけるギターの代表的存在。"
     }
   ],
   "other": [
@@ -393,6 +1395,78 @@
       "album": "Sunday at the Village Vanguard",
       "year": 1961,
       "note": "ベースとピアノが対等に対話する「インタープレイ」を確立したライブ録音。特定の潮流に留まらず、以後のピアノトリオ全体に影響を残した。"
+    },
+    {
+      "artist": "Charles Mingus",
+      "album": "Mingus Ah Um",
+      "year": 1959,
+      "note": "デューク・エリントンへのオマージュからゴスペル、フリーの萌芽までを一枚に収めた、単一様式に収まらない作曲家の代表作。"
+    },
+    {
+      "artist": "Rahsaan Roland Kirk",
+      "album": "The Inflated Tear",
+      "year": 1968,
+      "note": "複数の管楽器を同時に演奏する離れ業で知られる盲目の奏者による意欲作。ジャンルを超えた自由な発想が随所に光る。"
+    },
+    {
+      "artist": "Keith Jarrett",
+      "album": "The Köln Concert",
+      "year": 1975,
+      "note": "完全即興によるソロ・ピアノ・コンサートの記録として異例のセールスを記録した一枚。クラシックともジャズとも言い切れない独自の領域を切り開いた。"
+    },
+    {
+      "artist": "Esperanza Spalding",
+      "album": "Chamber Music Society",
+      "year": 2010,
+      "note": "ベース弾き語りに弦楽器を組み合わせた室内楽的アプローチで、ジャズ・ヴォーカルの新しい形を提示した作品。"
+    },
+    {
+      "artist": "Robert Glasper",
+      "album": "Black Radio",
+      "year": 2012,
+      "note": "ヒップホップやR&Bのアーティストを迎え、ジャズとブラック・ミュージック全体の対話を試みた意欲作。"
+    },
+    {
+      "artist": "Kamasi Washington",
+      "album": "The Epic",
+      "year": 2015,
+      "note": "3時間に及ぶ大作で、スピリチュアル・ジャズの伝統を現代に蘇らせたサックス奏者による野心作。"
+    },
+    {
+      "artist": "Wynton Marsalis",
+      "album": "Black Codes (From the Underground)",
+      "year": 1985,
+      "note": "伝統への回帰を掲げた「ジャズ・リパートリー運動」を体現するトランペッターによる代表作。ハードバップの語法を現代に継承した。"
+    },
+    {
+      "artist": "Brad Mehldau",
+      "album": "The Art of the Trio, Vol. 3: Songs",
+      "year": 1998,
+      "note": "ロックやポップスの楽曲をピアノトリオで再解釈する手法を確立した奏者による代表作。クラシックの対位法的感覚も特徴的。"
+    },
+    {
+      "artist": "The Bad Plus",
+      "album": "Give",
+      "year": 2004,
+      "note": "ロックのダイナミズムとジャズの即興性を大胆に融合させたピアノトリオによる作品。既存のトリオ観を覆した。"
+    },
+    {
+      "artist": "Christian Scott aTunde Adjuah",
+      "album": "Christian aTunde Adjuah",
+      "year": 2012,
+      "note": "「ストレッチ・ミュージック」を標榜するトランペッターによる意欲作。ヒップホップやロックの語法を積極的に取り込んだ。"
+    },
+    {
+      "artist": "Vijay Iyer",
+      "album": "Break Stuff",
+      "year": 2015,
+      "note": "数学的なリズム構造と即興性を結びつけるピアニストによる作品。学術的な探求心とグルーヴ感を両立させている。"
+    },
+    {
+      "artist": "Brian Blade",
+      "album": "Brian Blade Fellowship",
+      "year": 1998,
+      "note": "フォークやゴスペルの叙情性をジャズの即興性と結びつけたドラマー/リーダーによるデビュー作。特定の様式に収まらない独自の音世界を築いた。"
     }
   ]
 }
