@@ -1,0 +1,138 @@
+{
+  "nodes": [
+    { "id": "charlie-parker", "name": "Charlie Parker", "type": "person" },
+    { "id": "dizzy-gillespie", "name": "Dizzy Gillespie", "type": "person" },
+    { "id": "thelonious-monk", "name": "Thelonious Monk", "type": "person" },
+    { "id": "bud-powell", "name": "Bud Powell", "type": "person" },
+    { "id": "max-roach", "name": "Max Roach", "type": "person" },
+    { "id": "kenny-clarke", "name": "Kenny Clarke", "type": "person" },
+    { "id": "miles-davis", "name": "Miles Davis", "type": "person" },
+
+    { "id": "john-coltrane", "name": "John Coltrane", "type": "person" },
+    { "id": "red-garland", "name": "Red Garland", "type": "person" },
+    { "id": "paul-chambers", "name": "Paul Chambers", "type": "person" },
+    { "id": "philly-joe-jones", "name": "Philly Joe Jones", "type": "person" },
+
+    { "id": "wayne-shorter", "name": "Wayne Shorter", "type": "person" },
+    { "id": "herbie-hancock", "name": "Herbie Hancock", "type": "person" },
+    { "id": "ron-carter", "name": "Ron Carter", "type": "person" },
+    { "id": "tony-williams", "name": "Tony Williams", "type": "person" },
+
+    { "id": "john-mclaughlin", "name": "John McLaughlin", "type": "person" },
+    { "id": "joe-zawinul", "name": "Joe Zawinul", "type": "person" },
+    { "id": "chick-corea", "name": "Chick Corea", "type": "person" },
+    { "id": "weather-report", "name": "Weather Report", "type": "group" },
+    { "id": "mahavishnu-orchestra", "name": "Mahavishnu Orchestra", "type": "group" },
+    { "id": "return-to-forever", "name": "Return to Forever", "type": "group" },
+    { "id": "the-headhunters", "name": "The Headhunters", "type": "group" },
+
+    { "id": "mccoy-tyner", "name": "McCoy Tyner", "type": "person" },
+    { "id": "jimmy-garrison", "name": "Jimmy Garrison", "type": "person" },
+    { "id": "elvin-jones", "name": "Elvin Jones", "type": "person" },
+    { "id": "alice-coltrane", "name": "Alice Coltrane", "type": "person" },
+    { "id": "pharoah-sanders", "name": "Pharoah Sanders", "type": "person" },
+
+    { "id": "art-blakey", "name": "Art Blakey", "type": "person" },
+    { "id": "the-jazz-messengers", "name": "Art Blakey & The Jazz Messengers", "type": "group" },
+    { "id": "horace-silver", "name": "Horace Silver", "type": "person" },
+    { "id": "lee-morgan", "name": "Lee Morgan", "type": "person" },
+    { "id": "freddie-hubbard", "name": "Freddie Hubbard", "type": "person" },
+    { "id": "wynton-marsalis", "name": "Wynton Marsalis", "type": "person" },
+    { "id": "branford-marsalis", "name": "Branford Marsalis", "type": "person" },
+    { "id": "woody-shaw", "name": "Woody Shaw", "type": "person" },
+
+    { "id": "ornette-coleman", "name": "Ornette Coleman", "type": "person" },
+    { "id": "don-cherry", "name": "Don Cherry", "type": "person" },
+    { "id": "charlie-haden", "name": "Charlie Haden", "type": "person" },
+    { "id": "billy-higgins", "name": "Billy Higgins", "type": "person" },
+    { "id": "cecil-taylor", "name": "Cecil Taylor", "type": "person" },
+    { "id": "albert-ayler", "name": "Albert Ayler", "type": "person" },
+
+    { "id": "chano-pozo", "name": "Chano Pozo", "type": "person" },
+    { "id": "machito", "name": "Machito", "type": "person" },
+    { "id": "tito-puente", "name": "Tito Puente", "type": "person" },
+    { "id": "cal-tjader", "name": "Cal Tjader", "type": "person" },
+
+    { "id": "count-basie", "name": "Count Basie", "type": "person" },
+    { "id": "lester-young", "name": "Lester Young", "type": "person" },
+    { "id": "duke-ellington", "name": "Duke Ellington", "type": "person" },
+    { "id": "billie-holiday", "name": "Billie Holiday", "type": "person" },
+    { "id": "benny-goodman", "name": "Benny Goodman", "type": "person" },
+
+    { "id": "ella-fitzgerald", "name": "Ella Fitzgerald", "type": "person" },
+    { "id": "sarah-vaughan", "name": "Sarah Vaughan", "type": "person" },
+
+    { "id": "sonny-rollins", "name": "Sonny Rollins", "type": "person" },
+    { "id": "clifford-brown", "name": "Clifford Brown", "type": "person" },
+    { "id": "cannonball-adderley", "name": "Cannonball Adderley", "type": "person" },
+    { "id": "charles-mingus", "name": "Charles Mingus", "type": "person" }
+  ],
+  "links": [
+    { "source": "charlie-parker", "target": "dizzy-gillespie", "label": "共演(ミントンズ・プレイハウスのジャムセッション)" },
+    { "source": "dizzy-gillespie", "target": "thelonious-monk", "label": "共演(ミントンズ・プレイハウス)" },
+    { "source": "thelonious-monk", "target": "kenny-clarke", "label": "共演(ミントンズ・プレイハウス)" },
+    { "source": "charlie-parker", "target": "bud-powell", "label": "共演" },
+    { "source": "charlie-parker", "target": "max-roach", "label": "共演" },
+    { "source": "charlie-parker", "target": "miles-davis", "label": "在籍(サイドマンとして参加)" },
+    { "source": "dizzy-gillespie", "target": "miles-davis", "label": "在籍(サイドマンとして参加)" },
+
+    { "source": "dizzy-gillespie", "target": "chano-pozo", "label": "共演・アフロキューバン・ジャズ結成" },
+    { "source": "chano-pozo", "target": "machito", "label": "交流" },
+    { "source": "machito", "target": "tito-puente", "label": "影響" },
+    { "source": "tito-puente", "target": "cal-tjader", "label": "共演" },
+
+    { "source": "miles-davis", "target": "john-coltrane", "label": "第一次クインテット結成" },
+    { "source": "miles-davis", "target": "red-garland", "label": "第一次クインテット結成" },
+    { "source": "miles-davis", "target": "paul-chambers", "label": "第一次クインテット結成" },
+    { "source": "miles-davis", "target": "philly-joe-jones", "label": "第一次クインテット結成" },
+
+    { "source": "john-coltrane", "target": "mccoy-tyner", "label": "クラシック・カルテット結成" },
+    { "source": "john-coltrane", "target": "jimmy-garrison", "label": "クラシック・カルテット結成" },
+    { "source": "john-coltrane", "target": "elvin-jones", "label": "クラシック・カルテット結成" },
+    { "source": "john-coltrane", "target": "alice-coltrane", "label": "結婚・後任ピアニスト" },
+    { "source": "john-coltrane", "target": "pharoah-sanders", "label": "晩年の共演" },
+
+    { "source": "miles-davis", "target": "wayne-shorter", "label": "第二次クインテット結成" },
+    { "source": "miles-davis", "target": "herbie-hancock", "label": "第二次クインテット結成" },
+    { "source": "miles-davis", "target": "ron-carter", "label": "第二次クインテット結成" },
+    { "source": "miles-davis", "target": "tony-williams", "label": "第二次クインテット結成" },
+
+    { "source": "miles-davis", "target": "john-mclaughlin", "label": "Bitches Brewに参加" },
+    { "source": "miles-davis", "target": "joe-zawinul", "label": "Bitches Brewに参加" },
+    { "source": "miles-davis", "target": "chick-corea", "label": "Bitches Brewに参加" },
+    { "source": "wayne-shorter", "target": "weather-report", "label": "結成" },
+    { "source": "joe-zawinul", "target": "weather-report", "label": "結成" },
+    { "source": "john-mclaughlin", "target": "mahavishnu-orchestra", "label": "結成" },
+    { "source": "chick-corea", "target": "return-to-forever", "label": "結成" },
+    { "source": "herbie-hancock", "target": "the-headhunters", "label": "結成" },
+
+    { "source": "art-blakey", "target": "the-jazz-messengers", "label": "結成" },
+    { "source": "horace-silver", "target": "the-jazz-messengers", "label": "共同創設" },
+    { "source": "the-jazz-messengers", "target": "lee-morgan", "label": "在籍" },
+    { "source": "the-jazz-messengers", "target": "wayne-shorter", "label": "在籍" },
+    { "source": "the-jazz-messengers", "target": "freddie-hubbard", "label": "在籍" },
+    { "source": "the-jazz-messengers", "target": "wynton-marsalis", "label": "在籍" },
+    { "source": "the-jazz-messengers", "target": "branford-marsalis", "label": "在籍" },
+    { "source": "the-jazz-messengers", "target": "woody-shaw", "label": "在籍" },
+    { "source": "horace-silver", "target": "lee-morgan", "label": "共演" },
+
+    { "source": "ornette-coleman", "target": "don-cherry", "label": "カルテット結成" },
+    { "source": "ornette-coleman", "target": "charlie-haden", "label": "カルテット結成" },
+    { "source": "ornette-coleman", "target": "billy-higgins", "label": "カルテット結成" },
+    { "source": "ornette-coleman", "target": "cecil-taylor", "label": "同時代の革新者として並称" },
+    { "source": "cecil-taylor", "target": "albert-ayler", "label": "影響" },
+    { "source": "albert-ayler", "target": "john-coltrane", "label": "晩年の交流・影響" },
+
+    { "source": "count-basie", "target": "lester-young", "label": "在籍" },
+    { "source": "count-basie", "target": "ella-fitzgerald", "label": "共演(後年)" },
+    { "source": "duke-ellington", "target": "billie-holiday", "label": "共演" },
+    { "source": "dizzy-gillespie", "target": "sarah-vaughan", "label": "共演" },
+
+    { "source": "max-roach", "target": "clifford-brown", "label": "双頭コンボ結成" },
+    { "source": "clifford-brown", "target": "sonny-rollins", "label": "共演" },
+    { "source": "miles-davis", "target": "cannonball-adderley", "label": "共演(Kind of Blueなど)" },
+
+    { "source": "charles-mingus", "target": "max-roach", "label": "Massey Hall公演で共演" },
+    { "source": "charles-mingus", "target": "charlie-parker", "label": "Massey Hall公演で共演" }
+  ]
+}

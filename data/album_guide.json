@@ -1,0 +1,398 @@
+{
+  "traditional-jazz": [
+    {
+      "artist": "Louis Armstrong",
+      "album": "The Hot Fives and Hot Sevens, Vol. 1",
+      "year": 1925,
+      "note": "集団即興が基本だったニューオーリンズ・ジャズに、個人のソロ即興という発想を持ち込んだ歴史的録音群。以後のジャズ全体の語法を決定づけた。"
+    },
+    {
+      "artist": "King Oliver's Creole Jazz Band",
+      "album": "King Oliver's Creole Jazz Band, 1923",
+      "year": 1923,
+      "note": "若きルイ・アームストロングも在籍した、シカゴにおける初期ジャズの金字塔的録音。ポリフォニックな集団即興の様式美を今に伝える。"
+    },
+    {
+      "artist": "Jelly Roll Morton and His Red Hot Peppers",
+      "album": "Jelly Roll Morton and His Red Hot Peppers",
+      "year": 1926,
+      "note": "自らを「ジャズの発明者」と称した作曲家によるアンサンブル。即興と緻密な編曲を両立させた点で、後のスウィング期を先取りした。"
+    },
+    {
+      "artist": "Sidney Bechet",
+      "album": "Really the Blues",
+      "year": 1940,
+      "note": "ソプラノサックスという楽器をジャズの表現手段として確立した名手による録音。ブルース由来の泣きのフレージングが特徴。"
+    }
+  ],
+  "swing": [
+    {
+      "artist": "Count Basie",
+      "album": "The Complete Atomic Basie",
+      "year": 1958,
+      "note": "洗練されたビッグバンド・アレンジとタイトなリズム隊の一体感が頂点に達した1作。ベイシー楽団のスウィング感を象徴する。"
+    },
+    {
+      "artist": "Duke Ellington",
+      "album": "Ellington at Newport",
+      "year": 1956,
+      "note": "低迷期にあったエリントン楽団を復活させた伝説のライブ盤。ポール・ゴンザルヴェスの長大なテナーソロが聴衆を熱狂させた。"
+    },
+    {
+      "artist": "Benny Goodman",
+      "album": "Live at Carnegie Hall 1938",
+      "year": 1938,
+      "note": "クラシック専用ホールで初めて開かれたジャズ・コンサートの記録。「スウィングの王様」がジャズを舞台音楽として認めさせた一夜。"
+    },
+    {
+      "artist": "Artie Shaw",
+      "album": "Begin the Beguine",
+      "year": 1938,
+      "note": "クラリネットの名手によるスウィング期屈指のヒット曲を含む録音群。ビッグバンド全盛期のポピュラリティを象徴する。"
+    }
+  ],
+  "vocal-jazz": [
+    {
+      "artist": "Ella Fitzgerald",
+      "album": "Ella Fitzgerald Sings the Cole Porter Song Book",
+      "year": 1956,
+      "note": "スタンダード曲集(ソングブック・シリーズ)の代表作。卓越したスキャットと歌唱技術で「グレート・アメリカン・ソングブック」を定義づけた。"
+    },
+    {
+      "artist": "Billie Holiday",
+      "album": "Lady in Satin",
+      "year": 1958,
+      "note": "晩年、声の衰えすら表現力に変えた壮絶な1作。フレージングの間合いだけで感情を伝える、ヴォーカル・ジャズの極点。"
+    },
+    {
+      "artist": "Sarah Vaughan",
+      "album": "Sarah Vaughan with Clifford Brown",
+      "year": 1954,
+      "note": "圧倒的な声域とビバップ由来のフレージングを兼ね備えた歌唱と、若きクリフォード・ブラウンの共演が実現した名盤。"
+    },
+    {
+      "artist": "Nat King Cole",
+      "album": "After Midnight",
+      "year": 1956,
+      "note": "元来は名ピアニストでもあった歌手による、小編成コンボを従えたインティメートな一枚。ポップスとジャズの橋渡し役を担った。"
+    }
+  ],
+  "bebop": [
+    {
+      "artist": "Charlie Parker & Dizzy Gillespie",
+      "album": "Jazz at Massey Hall",
+      "year": 1953,
+      "note": "パーカーとガレスピー、バド・パウエル、チャールズ・ミンガス、マックス・ローチが一堂に会した伝説のライブ。ビバップの完成形が記録された一夜。"
+    },
+    {
+      "artist": "Dizzy Gillespie",
+      "album": "Groovin' High",
+      "year": 1945,
+      "note": "チャーリー・パーカーとの双頭コンボによる初期ビバップの決定的録音。目まぐるしいテンポと複雑な和声が既存のジャズ観を覆した。"
+    },
+    {
+      "artist": "Bud Powell",
+      "album": "The Amazing Bud Powell, Vol. 1",
+      "year": 1951,
+      "note": "ビバップのピアノ奏法を確立した1作。右手の速いシングルトーン・ラインと左手の断続的な和音というスタイルの原型。"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "album": "Genius of Modern Music, Vol. 1",
+      "year": 1947,
+      "note": "不協和音や大胆な休符を恐れない独自の作曲・演奏スタイルを提示した初期ブルーノート録音集。ビバップの内側にいながら異彩を放つ。"
+    }
+  ],
+  "latin-jazz": [
+    {
+      "artist": "Dizzy Gillespie & Chano Pozo",
+      "album": "Afro-Cuban Jazz",
+      "year": 1954,
+      "note": "キューバ出身の打楽器奏者チャノ・ポソとの出会いから生まれた、ビバップとアフロ・キューバンのリズムを融合させた画期的な作品群。"
+    },
+    {
+      "artist": "Tito Puente",
+      "album": "Dance Mania",
+      "year": 1958,
+      "note": "「マンボの王様」によるビッグバンド編成の代表作。ラテン・パーカッションとジャズのホーン・アレンジが渾然一体となっている。"
+    },
+    {
+      "artist": "Stan Getz & João Gilberto",
+      "album": "Getz/Gilberto",
+      "year": 1964,
+      "note": "ボサノヴァをアメリカのジャズシーンに広く紹介した金字塔的作品。「イパネマの娘」のヒットでラテン・ジャズブームを牽引した。"
+    },
+    {
+      "artist": "Cal Tjader",
+      "album": "Soul Sauce",
+      "year": 1965,
+      "note": "ヴァイブラフォン奏者によるラテン・ジャズとソウルジャズの交差点。ポップな親しみやすさとラテン・グルーヴを両立させた。"
+    }
+  ],
+  "cool-jazz": [
+    {
+      "artist": "Miles Davis",
+      "album": "Birth of the Cool",
+      "year": 1957,
+      "note": "1949〜50年のノネット(九重奏)セッションをまとめた編集盤。ビバップの熱量に対し、抑制された音色とアレンジで新たな潮流を生んだ。"
+    },
+    {
+      "artist": "Dave Brubeck",
+      "album": "Time Out",
+      "year": 1959,
+      "note": "変拍子を大胆に取り入れた実験作でありながら、「Take Five」の大ヒットでジャズ史上最も売れたアルバムの一つとなった。"
+    },
+    {
+      "artist": "Chet Baker",
+      "album": "Chet Baker Sings",
+      "year": 1954,
+      "note": "トランペット奏者自身による囁くようなヴォーカルが話題を呼んだ異色作。ウェストコースト・ジャズの繊細な美意識を象徴する。"
+    },
+    {
+      "artist": "Gerry Mulligan Quartet",
+      "album": "The Original Quartet with Chet Baker",
+      "year": 1953,
+      "note": "ピアノレスという編成で、バリトンサックスとトランペットが対位法的に絡み合う清涼な響きを作り出した。"
+    }
+  ],
+  "hard-bop": [
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "album": "Moanin'",
+      "year": 1958,
+      "note": "ゴスペルとブルースの泥臭さをビバップに取り戻した、ハードバップの決定版。若き才能の登竜門であり続けたバンドの代表作。"
+    },
+    {
+      "artist": "Horace Silver",
+      "album": "Song for My Father",
+      "year": 1964,
+      "note": "父へのオマージュとして書かれた表題曲がラテンのリズムとファンキーなグルーヴを融合。ハードバップの人懐こさを凝縮した1作。"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "album": "Saxophone Colossus",
+      "year": 1956,
+      "note": "「St. Thomas」に代表されるカリプソ調のメロディと、モチーフを展開させ続ける即興構築力を示した金字塔的リーダー作。"
+    },
+    {
+      "artist": "Clifford Brown & Max Roach",
+      "album": "Clifford Brown and Max Roach",
+      "year": 1954,
+      "note": "夭折の天才トランペッターとドラマーによる双頭コンボ。輝くようなトーンと完璧な技巧が同居する、ハードバップ初期の重要作。"
+    },
+    {
+      "artist": "Cannonball Adderley",
+      "album": "Somethin' Else",
+      "year": 1958,
+      "note": "マイルス・デイヴィスがサイドマンとして参加した異例の一枚。「Autumn Leaves」の名演で知られる、洗練と親しみやすさの共存作。"
+    }
+  ],
+  "soul-jazz": [
+    {
+      "artist": "Jimmy Smith",
+      "album": "The Sermon!",
+      "year": 1959,
+      "note": "ハモンドオルガンをジャズの主役楽器として定着させた立役者による代表作。ゴスペル由来のグルーヴを長尺の集団即興で展開する。"
+    },
+    {
+      "artist": "Lee Morgan",
+      "album": "The Sidewinder",
+      "year": 1964,
+      "note": "ブーガルー調の表題曲が異例のヒットを記録し、ブルーノート・レーベルの商業的成功を支えた1作。"
+    },
+    {
+      "artist": "Les McCann & Eddie Harris",
+      "album": "Swiss Movement",
+      "year": 1969,
+      "note": "モントルー・ジャズ・フェスティバルでのライブ録音。「Compared to What」のグルーヴはソウルジャズとファンクの結節点を示した。"
+    },
+    {
+      "artist": "Ramsey Lewis Trio",
+      "album": "The In Crowd",
+      "year": 1965,
+      "note": "ライブ録音のカヴァー曲が全米ヒットチャートに入るという異例の成功を収めた、ポップに開かれたソウルジャズの好例。"
+    }
+  ],
+  "modal-jazz": [
+    {
+      "artist": "Miles Davis",
+      "album": "Kind of Blue",
+      "year": 1959,
+      "note": "コード進行ではなく音階(モード)を演奏の基盤に据えた革命的作品。史上最も売れたジャズアルバムの一つであり、モードジャズの原点。"
+    },
+    {
+      "artist": "John Coltrane",
+      "album": "My Favorite Things",
+      "year": 1961,
+      "note": "ミュージカルの一曲をソプラノサックスによる長尺のモード即興へと変貌させた1作。コルトレーンの探求の転換点となった。"
+    },
+    {
+      "artist": "John Coltrane",
+      "album": "A Love Supreme",
+      "year": 1965,
+      "note": "信仰への感謝を音楽で表現した組曲形式の傑作。モード奏法と精神性の探求が結びついた、ジャズ史における金字塔。"
+    },
+    {
+      "artist": "McCoy Tyner",
+      "album": "The Real McCoy",
+      "year": 1967,
+      "note": "コルトレーン・カルテットのピアニストによるリーダー作。四度堆積の和声とモード奏法を独自の語法へと洗練させた。"
+    }
+  ],
+  "free-jazz": [
+    {
+      "artist": "Ornette Coleman",
+      "album": "The Shape of Jazz to Come",
+      "year": 1959,
+      "note": "既存のコード進行から解き放たれた即興を提示し、賛否両論を巻き起こした問題作。タイトル通り、後のジャズの方向性を予告した。"
+    },
+    {
+      "artist": "Ornette Coleman",
+      "album": "Free Jazz: A Collective Improvisation",
+      "year": 1961,
+      "note": "2つのカルテットが同時に即興演奏するという大胆な構成。ジャンル名「フリージャズ」そのものの由来となった作品。"
+    },
+    {
+      "artist": "John Coltrane",
+      "album": "Ascension",
+      "year": 1966,
+      "note": "大編成による激しい集団即興が延々と展開される、コルトレーン晩年の急進的傑作。"
+    },
+    {
+      "artist": "Albert Ayler",
+      "album": "Spiritual Unity",
+      "year": 1964,
+      "note": "民謡やマーチ風の単純なメロディを土台に、絶叫にも似た激しいテナーサックスの即興を展開。フリージャズの霊性を体現する1作。"
+    }
+  ],
+  "post-bop": [
+    {
+      "artist": "Wayne Shorter",
+      "album": "Speak No Evil",
+      "year": 1966,
+      "note": "モードジャズとハードバップの語法を折衷しながら、独自の作曲美学を確立した1作。神秘的な曲名と楽曲構成が特徴的。"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "album": "Maiden Voyage",
+      "year": 1965,
+      "note": "海をモチーフにした組曲形式のコンセプト作。モード奏法を洗練させながら、開放的で叙情的なサウンドを作り上げた。"
+    },
+    {
+      "artist": "Andrew Hill",
+      "album": "Point of Departure",
+      "year": 1965,
+      "note": "伝統的な形式とフリーな即興の間を綱渡りするような、緊張感あふれる作編曲で知られる隠れた名盤。"
+    },
+    {
+      "artist": "Miles Davis Quintet",
+      "album": "Nefertiti",
+      "year": 1968,
+      "note": "ソリストではなくリズム隊が主導権を握るという逆転の発想で作られた実験作。第2次黄金クインテットの到達点。"
+    }
+  ],
+  "jazz-fusion": [
+    {
+      "artist": "Miles Davis",
+      "album": "Bitches Brew",
+      "year": 1970,
+      "note": "ロックのビートとエレクトリック楽器、スタジオ編集技術を大胆に取り入れ、ジャズ・フュージョンという潮流そのものを生み出した問題作。"
+    },
+    {
+      "artist": "Weather Report",
+      "album": "Heavy Weather",
+      "year": 1977,
+      "note": "「Birdland」の大ヒットを含む、フュージョンバンドの頂点を示す一枚。緻密なアンサンブルと即興性が高い次元で両立している。"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "album": "Head Hunters",
+      "year": 1973,
+      "note": "ファンクのグルーヴとシンセサイザーを大胆に導入し、ジャズ史上屈指のセールスを記録。フュージョンの商業的成功を証明した。"
+    },
+    {
+      "artist": "Mahavishnu Orchestra",
+      "album": "The Inner Mounting Flame",
+      "year": 1971,
+      "note": "変拍子とハイスピードなユニゾンで、ジャズとロックの超絶技巧を融合。ジョン・マクラフリンのギターが牽引する激烈な1作。"
+    }
+  ],
+  "smooth-jazz": [
+    {
+      "artist": "Grover Washington Jr.",
+      "album": "Winelight",
+      "year": 1980,
+      "note": "ビル・ウィザースを迎えた「Just the Two of Us」のヒットで知られる、スムースジャズの方向性を決定づけた1作。"
+    },
+    {
+      "artist": "George Benson",
+      "album": "Breezin'",
+      "year": 1976,
+      "note": "ギタリスト自身の歌唱を交えたインストゥルメンタル・ポップ路線への転換作。ジャズの技巧をラジオ向けの心地よさに変換した。"
+    },
+    {
+      "artist": "Bob James",
+      "album": "Touchdown",
+      "year": 1978,
+      "note": "エレクトリック・ピアノとオーケストレーションを駆使した洗練されたサウンドで、後のスムースジャズの雛形を作った。"
+    },
+    {
+      "artist": "Kenny G",
+      "album": "Duotones",
+      "year": 1986,
+      "note": "「Songbird」の大ヒットにより、スムースジャズという言葉を一般層にまで広めた商業的金字塔。"
+    }
+  ],
+  "acid-jazz": [
+    {
+      "artist": "US3",
+      "album": "Hand on the Torch",
+      "year": 1993,
+      "note": "ブルーノートの音源をサンプリングしてヒップホップ的なビートと融合。ジャズとクラブミュージックの橋渡し役となった1作。"
+    },
+    {
+      "artist": "Digable Planets",
+      "album": "Reachin' (A New Refutation of Time and Space)",
+      "year": 1993,
+      "note": "ジャズ・サンプリングとレイドバックしたラップが融合したジャズ・ラップの代表作。アシッドジャズ的な美意識も色濃い。"
+    },
+    {
+      "artist": "Medeski Martin & Wood",
+      "album": "Combustication",
+      "year": 1998,
+      "note": "オルガン・トリオ編成にDJのスクラッチを取り入れた、ジャム・バンドとヌー・ジャズの境界線上にある作品。"
+    },
+    {
+      "artist": "Groove Collective",
+      "album": "Groove Collective",
+      "year": 1994,
+      "note": "ニューヨークのクラブシーンから生まれた大所帯グループによる、ラテン・ファンク・ジャズを横断するダンサブルな1作。"
+    }
+  ],
+  "other": [
+    {
+      "artist": "Charles Mingus",
+      "album": "The Black Saint and the Sinner Lady",
+      "year": 1963,
+      "note": "ゴスペル、フラメンコ、クラシックの語法まで飲み込んだ組曲形式の傑作。単一のジャンルには収まらないミンガスの作曲家としての到達点。"
+    },
+    {
+      "artist": "Sun Ra and His Arkestra",
+      "album": "Space Is the Place",
+      "year": 1973,
+      "note": "宇宙をテーマにした独自の神話世界と、フリージャズ・エレクトロニクス・ビッグバンドを横断するサウンドを展開した異形の1作。"
+    },
+    {
+      "artist": "Nina Simone",
+      "album": "Nina Simone at Town Hall",
+      "year": 1959,
+      "note": "クラシックの素養とジャズ、フォーク、ブルースを自在に行き来する歌唱とピアノで、ジャンルの垣根を超えた表現を追求した。"
+    },
+    {
+      "artist": "Bill Evans Trio",
+      "album": "Sunday at the Village Vanguard",
+      "year": 1961,
+      "note": "ベースとピアノが対等に対話する「インタープレイ」を確立したライブ録音。特定の潮流に留まらず、以後のピアノトリオ全体に影響を残した。"
+    }
+  ]
+}

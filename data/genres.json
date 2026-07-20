@@ -1,0 +1,207 @@
+{
+  "categories": [
+    {
+      "id": "traditional-jazz",
+      "label": "トラディショナル・ジャズ / ディキシーランド",
+      "period": "1900s-1920s",
+      "description": "ニューオーリンズを発祥とする最初期のジャズ様式。ラグタイムやブラスバンドの語法を取り込み、複数の管楽器が同時に即興を絡ませる集団即興(ポリフォニー)を特徴とする。"
+    },
+    {
+      "id": "swing",
+      "label": "スウィング(ビッグバンド)",
+      "period": "1930s-1940s",
+      "description": "大編成のビッグバンドが主導した、ダンスミュージックとしてのジャズ。カウント・ベイシーやデューク・エリントンらが洗練されたアレンジと躍動感あるリズムでポピュラー音楽の主流を担った。"
+    },
+    {
+      "id": "vocal-jazz",
+      "label": "ヴォーカル・ジャズ",
+      "period": "1930s〜",
+      "description": "スウィング期のビッグバンド歌手を出自に、スキャットや洗練されたフレージングでスタンダード曲を歌い上げる系譜。エラ・フィッツジェラルドやサラ・ヴォーンらが確立した。"
+    },
+    {
+      "id": "bebop",
+      "label": "ビバップ",
+      "period": "1940s",
+      "description": "ダンスミュージックだったスウィングから離れ、速いテンポと複雑なコード進行、細かいフレーズによる即興を追求した革新的様式。チャーリー・パーカーとディジー・ガレスピーが中心となった。"
+    },
+    {
+      "id": "latin-jazz",
+      "label": "ラテン・ジャズ",
+      "period": "1940s〜",
+      "description": "アフロ・キューバン音楽のリズムとビバップの語法を融合させたジャンル。ディジー・ガレスピーとチャノ・ポソの共演を契機に発展した。"
+    },
+    {
+      "id": "cool-jazz",
+      "label": "クールジャズ / ウェストコースト・ジャズ",
+      "period": "1950s",
+      "description": "ビバップの熱量に対し、抑制された音色と室内楽的なアレンジを志向したスタイル。マイルス・デイヴィスの諸作やウェストコースト勢が中心的に担った。"
+    },
+    {
+      "id": "hard-bop",
+      "label": "ハードバップ",
+      "period": "1950s-1960s",
+      "description": "ビバップにブルースやゴスペルの泥臭さを取り戻したスタイル。アート・ブレイキー&ザ・ジャズ・メッセンジャーズやホレス・シルヴァーが牽引した。"
+    },
+    {
+      "id": "soul-jazz",
+      "label": "ソウルジャズ",
+      "period": "1950s-1960s",
+      "description": "ハードバップにさらにゴスペル/R&Bの要素を強め、オルガンを中心に躍動感あるグルーヴを強調したスタイル。ジミー・スミスらのオルガン・トリオが代表格。"
+    },
+    {
+      "id": "modal-jazz",
+      "label": "モードジャズ",
+      "period": "1950s-1960s",
+      "description": "コード進行ではなく音階(モード)を基盤に即興を展開する手法。マイルス・デイヴィス『カインド・オブ・ブルー』とジョン・コルトレーンの探求によって確立された。"
+    },
+    {
+      "id": "free-jazz",
+      "label": "フリージャズ(アヴァンギャルド)",
+      "period": "1960s〜",
+      "description": "調性・拍節・既存のコード進行から自由になり、集団即興や音響そのものを追求したスタイル。オーネット・コールマンやセシル・テイラーが先駆けとなった。"
+    },
+    {
+      "id": "post-bop",
+      "label": "ポストバップ",
+      "period": "1960s",
+      "description": "モードジャズやフリージャズの語法を取り込みつつ、ハードバップ的な楽曲構成を保持した折衷的スタイル。ウェイン・ショーターやハービー・ハンコックの諸作が代表的。"
+    },
+    {
+      "id": "jazz-fusion",
+      "label": "ジャズ・フュージョン",
+      "period": "1970s",
+      "description": "ロックやファンクのビート、エレクトリック楽器を取り入れたジャンル。マイルス・デイヴィス『ビッチェズ・ブリュー』を契機に、ウェザー・リポートらが発展させた。"
+    },
+    {
+      "id": "smooth-jazz",
+      "label": "スムースジャズ",
+      "period": "1980s-1990s",
+      "description": "フュージョンからポップス寄りの聴きやすさを追求したインストゥルメンタル様式。ラジオのアダルト・コンテンポラリー市場で人気を博した。"
+    },
+    {
+      "id": "acid-jazz",
+      "label": "アシッドジャズ / ヌー・ジャズ",
+      "period": "1990s-2000s",
+      "description": "ハウスやヒップホップのビートにジャズやファンクのグルーヴを組み合わせたクラブ発のスタイル。US3やグルーヴ・コレクティヴらが代表的。"
+    },
+    {
+      "id": "other",
+      "label": "その他",
+      "period": "",
+      "description": "上記のカテゴリに明確に当てはまらない、あるいは複数のスタイルを横断するアーティスト。"
+    }
+  ],
+  "genealogy": [
+    { "from": "traditional-jazz", "to": "swing" },
+    { "from": "swing", "to": "bebop" },
+    { "from": "swing", "to": "vocal-jazz" },
+    { "from": "bebop", "to": "cool-jazz" },
+    { "from": "bebop", "to": "hard-bop" },
+    { "from": "bebop", "to": "latin-jazz" },
+    { "from": "hard-bop", "to": "soul-jazz" },
+    { "from": "hard-bop", "to": "modal-jazz" },
+    { "from": "cool-jazz", "to": "modal-jazz" },
+    { "from": "modal-jazz", "to": "free-jazz" },
+    { "from": "modal-jazz", "to": "post-bop" },
+    { "from": "post-bop", "to": "jazz-fusion" },
+    { "from": "jazz-fusion", "to": "smooth-jazz" },
+    { "from": "jazz-fusion", "to": "acid-jazz" }
+  ],
+  "tag_map": {
+    "dixieland": ["traditional-jazz"],
+    "traditional jazz": ["traditional-jazz"],
+    "trad jazz": ["traditional-jazz"],
+    "new orleans jazz": ["traditional-jazz"],
+    "hot jazz": ["traditional-jazz"],
+    "early jazz": ["traditional-jazz"],
+    "ragtime": ["traditional-jazz"],
+
+    "swing": ["swing"],
+    "swing jazz": ["swing"],
+    "big band": ["swing"],
+    "big band jazz": ["swing"],
+    "jump blues": ["swing"],
+
+    "vocal jazz": ["vocal-jazz"],
+    "jazz vocal": ["vocal-jazz"],
+    "vocal jazz standards": ["vocal-jazz"],
+    "standards": ["vocal-jazz"],
+    "great american songbook": ["vocal-jazz"],
+    "torch song": ["vocal-jazz"],
+    "scat singing": ["vocal-jazz"],
+
+    "bebop": ["bebop"],
+    "be-bop": ["bebop"],
+    "bop": ["bebop"],
+
+    "latin jazz": ["latin-jazz"],
+    "afro-cuban jazz": ["latin-jazz"],
+    "afro cuban jazz": ["latin-jazz"],
+    "cubop": ["latin-jazz"],
+    "bossa nova": ["latin-jazz"],
+    "brazilian jazz": ["latin-jazz"],
+    "latin": ["latin-jazz"],
+
+    "cool jazz": ["cool-jazz"],
+    "west coast jazz": ["cool-jazz"],
+    "chamber jazz": ["cool-jazz"],
+    "third stream": ["cool-jazz"],
+
+    "hard bop": ["hard-bop"],
+    "hardbop": ["hard-bop"],
+
+    "soul jazz": ["soul-jazz"],
+    "boogaloo": ["soul-jazz"],
+    "jazz organ": ["soul-jazz"],
+    "organ trio": ["soul-jazz"],
+    "groove jazz": ["soul-jazz"],
+
+    "modal jazz": ["modal-jazz"],
+    "modal": ["modal-jazz"],
+
+    "free jazz": ["free-jazz"],
+    "avant-garde jazz": ["free-jazz"],
+    "avant garde jazz": ["free-jazz"],
+    "free improvisation": ["free-jazz"],
+    "energy music": ["free-jazz"],
+    "spiritual jazz": ["free-jazz"],
+    "loft jazz": ["free-jazz"],
+
+    "post-bop": ["post-bop"],
+    "post bop": ["post-bop"],
+    "postbop": ["post-bop"],
+
+    "fusion": ["jazz-fusion"],
+    "jazz fusion": ["jazz-fusion"],
+    "jazz-rock": ["jazz-fusion"],
+    "jazz rock": ["jazz-fusion"],
+    "electric jazz": ["jazz-fusion"],
+    "jazz funk": ["jazz-fusion"],
+    "jazz-funk": ["jazz-fusion"],
+    "funk jazz": ["jazz-fusion"],
+
+    "smooth jazz": ["smooth-jazz"],
+    "contemporary jazz": ["smooth-jazz"],
+    "instrumental pop": ["smooth-jazz"],
+
+    "acid jazz": ["acid-jazz"],
+    "nu jazz": ["acid-jazz"],
+    "nu-jazz": ["acid-jazz"],
+    "jazz house": ["acid-jazz"],
+    "broken beat": ["acid-jazz"],
+
+    "blues": ["other"],
+    "gospel": ["other"],
+    "funk": ["other"],
+    "soul": ["other"],
+    "r&b": ["other"],
+    "rhythm and blues": ["other"],
+    "hip hop": ["other"],
+    "jazz rap": ["other"],
+    "world fusion": ["other"],
+    "world music": ["other"],
+    "classical crossover": ["other"],
+    "gypsy jazz": ["other"],
+    "ambient": ["other"]
+  }
+}

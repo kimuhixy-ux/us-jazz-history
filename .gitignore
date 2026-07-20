@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# 各種fetchスクリプトの再開用チェックポイント(アプリの動作には不要)
+data/progress.json
+data/backfill_progress.json
+data/artwork_progress.json
+
+# macOS
+.DS_Store
