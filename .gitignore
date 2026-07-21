@@ -6,6 +6,7 @@ __pycache__/
 data/progress.json
 data/backfill_progress.json
 data/artwork_progress.json
+data/personnel_progress.json
 
 # macOS
 .DS_Store
