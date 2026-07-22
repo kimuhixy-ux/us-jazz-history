@@ -62,11 +62,25 @@ function albumRowHtml(artist, album) {
         <span class="album-title">${escapeHtml(album.title)}</span>
         <span class="album-year">${album.year ?? "年不明"}</span>
         ${album.personnel ? `<div class="personnel" style="margin-top:4px; font-size:0.85em; color:var(--text-dim);">参加ミュージシャン: ${escapeHtml(album.personnel)}</div>` : ""}
+        ${tracklistHtml(album)}
       </div>
       <div class="album-links">
         <a href="${spotifySearchUrl(query)}" target="_blank" rel="noopener">Spotify</a>
         <a href="${appleMusicSearchUrl(query)}" target="_blank" rel="noopener">Apple Music</a>
       </div>
     </div>
+  `;
+}
+
+function tracklistHtml(album) {
+  if (!album.tracks || !album.tracks.length) return "";
+  const items = album.tracks
+    .map((t) => `<li>${escapeHtml(t.title)}${t.length ? ` <span class="track-length">${escapeHtml(t.length)}</span>` : ""}</li>`)
+    .join("");
+  return `
+    <details class="tracklist">
+      <summary>収録曲(${album.tracks.length}曲)</summary>
+      <ol>${items}</ol>
+    </details>
   `;
 }
