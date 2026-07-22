@@ -25,7 +25,24 @@ export async function loadData() {
     artist.slug = slugify(artist.name);
   }
 
-  cache = { artists, genres, relations, categoryById };
+  // 楽曲検索用に、全アーティストの収録曲をフラットな配列にしておく
+  const songs = [];
+  for (const artist of artists) {
+    for (const album of artist.albums || []) {
+      for (const track of album.tracks || []) {
+        songs.push({
+          title: track.title,
+          length: track.length,
+          albumTitle: album.title,
+          year: album.year,
+          artistName: artist.name,
+          artistSlug: artist.slug,
+        });
+      }
+    }
+  }
+
+  cache = { artists, genres, relations, categoryById, songs };
   return cache;
 }
 
