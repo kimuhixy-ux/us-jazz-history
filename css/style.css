@@ -257,6 +257,12 @@ input[type="text"]:focus, input[type="search"]:focus, select:focus {
   font-size: 12px;
   color: var(--text-dim);
 }
+.artist-card .match-note {
+  margin-top: 6px;
+  font-size: 11px;
+  color: var(--text-dim);
+  opacity: 0.85;
+}
 
 /* ===== 一覧ページ ===== */
 .filter-bar {

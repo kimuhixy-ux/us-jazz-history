@@ -22,7 +22,7 @@ export async function renderArtists(view, queryString) {
     <p class="page-lead">全${artists.length}組のアメリカのジャズ・アーティストを検索・絞り込みできます。</p>
 
     <div class="filter-bar">
-      <input type="search" id="qInput" placeholder="アーティスト名で検索…" value="${escapeHtml(state.q)}">
+      <input type="search" id="qInput" placeholder="アーティスト名・参加ミュージシャン名で検索…" value="${escapeHtml(state.q)}">
       <select id="sortSelect">
         <option value="name">名前順</option>
         <option value="begin">活動開始年順</option>
@@ -55,6 +55,15 @@ export async function renderArtists(view, queryString) {
   decadeRow.innerHTML = DECADES.map(([v, l]) => chipHtml("decade", v, l, state.decade)).join("");
   genreRow.innerHTML = GENRES.map(([v, l]) => chipHtml("genre", v, l, state.genre)).join("");
 
+  function personnelSnippet(personnel, q) {
+    // 括弧内(楽器名)のカンマでは分割しないよう、トップレベルのカンマのみで区切る
+    const seg = personnel
+      .split(/,\s*(?![^()]*\))/)
+      .map((s) => s.trim())
+      .find((s) => s.toLowerCase().includes(q));
+    return seg || personnel;
+  }
+
   function chipHtml(group, value, label, current) {
     const active = value === current ? " active" : "";
     return `<button type="button" class="chip${active}" data-group="${group}" data-value="${escapeHtml(value)}">${escapeHtml(label)}</button>`;
@@ -71,11 +80,22 @@ export async function renderArtists(view, queryString) {
     history.replaceState(null, "", `#/artists${qs ? "?" + qs : ""}`);
   }
 
+  let matchNotes = new Map();
+
   function applyFilters() {
     let list = artists;
+    matchNotes = new Map();
     if (state.q) {
       const q = state.q.toLowerCase();
-      list = list.filter((a) => a.name.toLowerCase().includes(q));
+      list = list.filter((a) => {
+        if (a.name.toLowerCase().includes(q)) return true;
+        const album = (a.albums || []).find((al) => al.personnel && al.personnel.toLowerCase().includes(q));
+        if (album) {
+          matchNotes.set(a, `参加: ${personnelSnippet(album.personnel, q)} (${album.title})`);
+          return true;
+        }
+        return false;
+      });
     }
     if (state.genre) list = list.filter((a) => a.genreIds.includes(state.genre));
     if (state.decade) list = list.filter((a) => a.begin_year && Math.floor(a.begin_year / 10) * 10 === Number(state.decade));
@@ -92,7 +112,7 @@ export async function renderArtists(view, queryString) {
 
     countEl.textContent = `${list.length}件ヒット`;
     resultsEl.innerHTML = list.length
-      ? list.map((a) => artistCardHtml(a)).join("")
+      ? list.map((a) => artistCardHtml(a, matchNotes.get(a))).join("")
       : `<p class="empty-hint">該当するアーティストが見つかりませんでした。</p>`;
     syncUrl();
   }
