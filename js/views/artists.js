@@ -119,6 +119,7 @@ export async function renderArtists(view, queryString) {
       const q = state.q.toLowerCase();
       nameMatches = list.filter((a) => a.name.toLowerCase().includes(q));
       for (const a of list) {
+        if (a.name.toLowerCase().includes(q)) continue; // リーダー本人のアルバムは「参加ミュージシャン」欄に出さない
         for (const al of a.albums || []) {
           if (al.personnel && al.personnel.toLowerCase().includes(q)) {
             albumHits.push({ artist: a, album: al });
