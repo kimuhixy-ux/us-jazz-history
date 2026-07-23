@@ -2,7 +2,7 @@
 
 import { escapeHtml } from "../router.js";
 
-export function artistCardHtml(artist, matchNote) {
+export function artistCardHtml(artist) {
   const period = artist.begin_year
     ? `${artist.begin_year}〜${artist.end_year || ""}`
     : "活動時期不明";
@@ -11,7 +11,6 @@ export function artistCardHtml(artist, matchNote) {
     <a class="artist-card" href="#/artist/${encodeURIComponent(artist.slug)}">
       <div class="name">${escapeHtml(artist.name)}</div>
       <div class="meta">${typeLabel} ・ ${period}</div>
-      ${matchNote ? `<div class="match-note">${escapeHtml(matchNote)}</div>` : ""}
     </a>
   `;
 }
