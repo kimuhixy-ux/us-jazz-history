@@ -84,7 +84,11 @@ export function toggleFavorite(mbid) {
 
 // ===== 外部リンク生成 =====
 export function spotifySearchUrl(query) {
-  return `https://open.spotify.com/search/${encodeURIComponent(query)}`;
+  const path = `open.spotify.com/search/${encodeURIComponent(query)}`;
+  const web = `https://${path}`;
+  const isAndroid = typeof navigator !== "undefined" && /Android/i.test(navigator.userAgent);
+  if (!isAndroid) return web;
+  return `intent://${path}#Intent;scheme=https;package=com.spotify.music;S.browser_fallback_url=${encodeURIComponent(web)};end`;
 }
 
 export function appleMusicSearchUrl(query) {

@@ -32,7 +32,7 @@ export async function renderArtistDetail(view, slug) {
           ${isFavorite(artist.mbid) ? "★ お気に入り解除" : "☆ お気に入りに追加"}
         </button>
         <a class="btn" href="${wikipediaJaUrl(artist.name)}" target="_blank" rel="noopener">Wikipedia(日本語版)</a>
-        <a class="btn" href="${spotifySearchUrl(artist.name)}" target="_blank" rel="noopener">Spotifyで検索</a>
+        <a class="btn" href="${spotifySearchUrl(artist.name)}">Spotifyで検索</a>
         <a class="btn" href="${appleMusicSearchUrl(artist.name)}" target="_blank" rel="noopener">Apple Musicで検索</a>
       </div>
     </div>
@@ -65,7 +65,7 @@ function albumRowHtml(artist, album) {
         ${tracklistHtml(album)}
       </div>
       <div class="album-links">
-        <a href="${spotifySearchUrl(query)}" target="_blank" rel="noopener">Spotify</a>
+        <a href="${spotifySearchUrl(query)}">Spotify</a>
         <a href="${appleMusicSearchUrl(query)}" target="_blank" rel="noopener">Apple Music</a>
       </div>
     </div>

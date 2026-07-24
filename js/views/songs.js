@@ -80,7 +80,7 @@ function songRowHtml(song) {
         ${song.length ? `<span class="track-length">${escapeHtml(song.length)}</span>` : ""}
       </div>
       <div class="song-links">
-        <a href="${spotifySearchUrl(query)}" target="_blank" rel="noopener">Spotify</a>
+        <a href="${spotifySearchUrl(query)}">Spotify</a>
         <a href="${appleMusicSearchUrl(query)}" target="_blank" rel="noopener">Apple Music</a>
       </div>
     </div>
