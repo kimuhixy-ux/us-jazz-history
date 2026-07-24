@@ -1,6 +1,6 @@
 // sw.js: オフライン閲覧のためのService Worker
 // バージョンを上げると古いキャッシュが破棄され、新しいファイルに置き換わります。
-const CACHE_VERSION = "us-jazz-history-v12-android-spotify";
+const CACHE_VERSION = "us-jazz-history-v13-favorites-sync";
 
 const PRECACHE_URLS = [
   "./",
@@ -10,6 +10,7 @@ const PRECACHE_URLS = [
   "./js/main.js",
   "./js/router.js",
   "./js/data.js",
+  "./js/sync.js",
   "./js/components/artist-card.js",
   "./js/views/timeline.js",
   "./js/views/artists.js",

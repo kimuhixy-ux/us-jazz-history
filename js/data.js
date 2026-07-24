@@ -59,8 +59,9 @@ export function decadeOf(year) {
   return Math.floor(year / 10) * 10;
 }
 
-// ===== お気に入り(localStorage) =====
+// ===== お気に入り(localStorage、sync.js経由でデバイス間同期も可能) =====
 const FAV_KEY = "us-jazz-history:favorites";
+const FAV_UPDATED_KEY = "us-jazz-history:favorites-updated-at";
 
 export function getFavorites() {
   try {
@@ -68,6 +69,10 @@ export function getFavorites() {
   } catch {
     return [];
   }
+}
+
+export function getFavoritesUpdatedAt() {
+  return Number(localStorage.getItem(FAV_UPDATED_KEY) || 0);
 }
 
 export function isFavorite(mbid) {
@@ -78,8 +83,31 @@ export function toggleFavorite(mbid) {
   const favs = new Set(getFavorites());
   if (favs.has(mbid)) favs.delete(mbid);
   else favs.add(mbid);
-  localStorage.setItem(FAV_KEY, JSON.stringify([...favs]));
+  const list = [...favs];
+  localStorage.setItem(FAV_KEY, JSON.stringify(list));
+  localStorage.setItem(FAV_UPDATED_KEY, String(Date.now()));
+  notifyFavoritesChanged(false);
   return favs.has(mbid);
+}
+
+// sync.jsがサーバーから受け取った内容でローカルを上書きするための関数
+export function applyFavoritesFromSync(list, updatedAt) {
+  localStorage.setItem(FAV_KEY, JSON.stringify(list));
+  localStorage.setItem(FAV_UPDATED_KEY, String(updatedAt));
+  notifyFavoritesChanged(true);
+}
+
+const favoritesListeners = new Set();
+
+// fromSyncがtrueの場合はサーバーからの反映、falseの場合は端末上での変更
+export function onFavoritesChanged(fn) {
+  favoritesListeners.add(fn);
+  return () => favoritesListeners.delete(fn);
+}
+
+function notifyFavoritesChanged(fromSync) {
+  const list = getFavorites();
+  favoritesListeners.forEach((fn) => fn(list, { fromSync }));
 }
 
 // ===== 外部リンク生成 =====
