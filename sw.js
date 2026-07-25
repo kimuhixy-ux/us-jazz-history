@@ -1,6 +1,6 @@
 // sw.js: オフライン閲覧のためのService Worker
 // バージョンを上げると古いキャッシュが破棄され、新しいファイルに置き換わります。
-const CACHE_VERSION = "us-jazz-history-v14-monetization-phase1";
+const CACHE_VERSION = "us-jazz-history-v15-monetization-phase2";
 
 const PRECACHE_URLS = [
   "./",
@@ -12,6 +12,8 @@ const PRECACHE_URLS = [
   "./js/main.js",
   "./js/router.js",
   "./js/data.js",
+  "./js/config.js",
+  "./js/affiliate.js",
   "./js/sync.js",
   "./js/components/artist-card.js",
   "./js/views/timeline.js",
