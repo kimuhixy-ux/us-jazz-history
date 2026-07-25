@@ -12,6 +12,7 @@ import { renderGlossary } from "./views/glossary.js";
 import { renderFavorites } from "./views/favorites.js";
 import { renderStats } from "./views/stats.js";
 import { initSync } from "./sync.js";
+import { renderDonateLink } from "./donate.js";
 
 addRoute(/^#\/timeline$/, renderTimeline);
 addRoute(/^#\/artists(?:\?(.*))?$/, renderArtists);
@@ -26,6 +27,7 @@ addRoute(/^#\/stats$/, renderStats);
 addRoute(/^#\/?$/, renderTimeline);
 
 startRouter();
+renderDonateLink();
 initSync();
 
 // モバイル用ナビの開閉
