@@ -13,6 +13,7 @@ import { renderFavorites } from "./views/favorites.js";
 import { renderStats } from "./views/stats.js";
 import { initSync } from "./sync.js";
 import { renderDonateLink } from "./donate.js";
+import { initAds } from "./ads.js";
 import { ROOT } from "./i18n.js";
 
 addRoute(/^#\/timeline$/, renderTimeline);
@@ -29,6 +30,7 @@ addRoute(/^#\/?$/, renderTimeline);
 
 startRouter();
 renderDonateLink();
+initAds();
 initSync();
 
 // モバイル用ナビの開閉
