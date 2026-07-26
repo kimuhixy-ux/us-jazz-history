@@ -1,6 +1,6 @@
 // sw.js: オフライン閲覧のためのService Worker
 // バージョンを上げると古いキャッシュが破棄され、新しいファイルに置き換わります。
-const CACHE_VERSION = "us-jazz-history-v16-phase4-adsense-canonical";
+const CACHE_VERSION = "us-jazz-history-v17-en-localization";
 
 const PRECACHE_URLS = [
   "./",
@@ -8,6 +8,10 @@ const PRECACHE_URLS = [
   "./about.html",
   "./privacy.html",
   "./manifest.json",
+  "./en/index.html",
+  "./en/about.html",
+  "./en/privacy.html",
+  "./en/manifest.json",
   "./css/style.css",
   "./js/main.js",
   "./js/router.js",
@@ -16,6 +20,8 @@ const PRECACHE_URLS = [
   "./js/affiliate.js",
   "./js/donate.js",
   "./js/sync.js",
+  "./js/i18n.js",
+  "./js/strings.js",
   "./js/components/artist-card.js",
   "./js/views/timeline.js",
   "./js/views/artists.js",
@@ -33,6 +39,9 @@ const PRECACHE_URLS = [
   "./data/relations.json",
   "./data/album_guide.json",
   "./data/glossary.json",
+  "./data/genres.en.json",
+  "./data/album_guide.en.json",
+  "./data/glossary.en.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
 ];

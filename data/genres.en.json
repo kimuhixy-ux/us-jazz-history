@@ -1,0 +1,207 @@
+{
+  "categories": [
+    {
+      "id": "traditional-jazz",
+      "label": "Traditional Jazz / Dixieland",
+      "period": "1900s-1920s",
+      "description": "The earliest jazz style, originating in New Orleans. Drawing on ragtime and brass-band vocabulary, it's defined by collective improvisation (polyphony), with several horns improvising simultaneously."
+    },
+    {
+      "id": "swing",
+      "label": "Swing (Big Band)",
+      "period": "1930s-1940s",
+      "description": "Jazz as dance music, led by large big bands. Count Basie and Duke Ellington carried popular music's mainstream with polished arrangements and propulsive rhythm."
+    },
+    {
+      "id": "vocal-jazz",
+      "label": "Vocal Jazz",
+      "period": "1930s–",
+      "description": "A lineage rooted in swing-era big-band singers, delivering standards with scat and sophisticated phrasing. Established by Ella Fitzgerald and Sarah Vaughan, among others."
+    },
+    {
+      "id": "bebop",
+      "label": "Bebop",
+      "period": "1940s",
+      "description": "A breakaway from swing's dance-music role, pursuing improvisation through fast tempos, complex chord changes, and intricate phrasing. Centered on Charlie Parker and Dizzy Gillespie."
+    },
+    {
+      "id": "latin-jazz",
+      "label": "Latin Jazz",
+      "period": "1940s–",
+      "description": "A genre fusing Afro-Cuban rhythms with bebop's vocabulary. It developed out of Dizzy Gillespie's collaboration with Chano Pozo."
+    },
+    {
+      "id": "cool-jazz",
+      "label": "Cool Jazz / West Coast Jazz",
+      "period": "1950s",
+      "description": "A style favoring restrained tone and chamber-music-like arrangement in contrast to bebop's intensity. Carried largely by Miles Davis's work and the West Coast scene."
+    },
+    {
+      "id": "hard-bop",
+      "label": "Hard Bop",
+      "period": "1950s-1960s",
+      "description": "A style that brought the earthiness of blues and gospel back into bebop. Led by Art Blakey & the Jazz Messengers and Horace Silver."
+    },
+    {
+      "id": "soul-jazz",
+      "label": "Soul Jazz",
+      "period": "1950s-1960s",
+      "description": "A style that deepened hard bop's gospel/R&B elements, built around the organ and driven by a buoyant groove. Jimmy Smith's organ trios are the archetype."
+    },
+    {
+      "id": "modal-jazz",
+      "label": "Modal Jazz",
+      "period": "1950s-1960s",
+      "description": "A method building improvisation on scales (modes) rather than chord changes. Established by Miles Davis's \"Kind of Blue\" and John Coltrane's exploration."
+    },
+    {
+      "id": "free-jazz",
+      "label": "Free Jazz (Avant-Garde)",
+      "period": "1960s–",
+      "description": "A style freed from tonality, meter, and existing chord progressions, pursuing collective improvisation and sound itself. Pioneered by Ornette Coleman and Cecil Taylor."
+    },
+    {
+      "id": "post-bop",
+      "label": "Post-Bop",
+      "period": "1960s",
+      "description": "An eclectic style that absorbed modal jazz and free jazz's vocabulary while retaining hard bop's song structure. Wayne Shorter and Herbie Hancock's work is representative."
+    },
+    {
+      "id": "jazz-fusion",
+      "label": "Jazz Fusion",
+      "period": "1970s",
+      "description": "A genre incorporating rock and funk beats and electric instruments. Sparked by Miles Davis's \"Bitches Brew\" and developed further by Weather Report, among others."
+    },
+    {
+      "id": "smooth-jazz",
+      "label": "Smooth Jazz",
+      "period": "1980s-1990s",
+      "description": "An instrumental style pushing fusion toward pop-friendly accessibility. Popular on adult-contemporary radio."
+    },
+    {
+      "id": "acid-jazz",
+      "label": "Acid Jazz / Nu Jazz",
+      "period": "1990s-2000s",
+      "description": "A club-born style pairing house and hip-hop beats with jazz and funk grooves. US3 and Groove Collective are representative."
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "period": "",
+      "description": "Artists that don't clearly fit the above categories, or that cross multiple styles."
+    }
+  ],
+  "genealogy": [
+    { "from": "traditional-jazz", "to": "swing" },
+    { "from": "swing", "to": "bebop" },
+    { "from": "swing", "to": "vocal-jazz" },
+    { "from": "bebop", "to": "cool-jazz" },
+    { "from": "bebop", "to": "hard-bop" },
+    { "from": "bebop", "to": "latin-jazz" },
+    { "from": "hard-bop", "to": "soul-jazz" },
+    { "from": "hard-bop", "to": "modal-jazz" },
+    { "from": "cool-jazz", "to": "modal-jazz" },
+    { "from": "modal-jazz", "to": "free-jazz" },
+    { "from": "modal-jazz", "to": "post-bop" },
+    { "from": "post-bop", "to": "jazz-fusion" },
+    { "from": "jazz-fusion", "to": "smooth-jazz" },
+    { "from": "jazz-fusion", "to": "acid-jazz" }
+  ],
+  "tag_map": {
+    "dixieland": ["traditional-jazz"],
+    "traditional jazz": ["traditional-jazz"],
+    "trad jazz": ["traditional-jazz"],
+    "new orleans jazz": ["traditional-jazz"],
+    "hot jazz": ["traditional-jazz"],
+    "early jazz": ["traditional-jazz"],
+    "ragtime": ["traditional-jazz"],
+
+    "swing": ["swing"],
+    "swing jazz": ["swing"],
+    "big band": ["swing"],
+    "big band jazz": ["swing"],
+    "jump blues": ["swing"],
+
+    "vocal jazz": ["vocal-jazz"],
+    "jazz vocal": ["vocal-jazz"],
+    "vocal jazz standards": ["vocal-jazz"],
+    "standards": ["vocal-jazz"],
+    "great american songbook": ["vocal-jazz"],
+    "torch song": ["vocal-jazz"],
+    "scat singing": ["vocal-jazz"],
+
+    "bebop": ["bebop"],
+    "be-bop": ["bebop"],
+    "bop": ["bebop"],
+
+    "latin jazz": ["latin-jazz"],
+    "afro-cuban jazz": ["latin-jazz"],
+    "afro cuban jazz": ["latin-jazz"],
+    "cubop": ["latin-jazz"],
+    "bossa nova": ["latin-jazz"],
+    "brazilian jazz": ["latin-jazz"],
+    "latin": ["latin-jazz"],
+
+    "cool jazz": ["cool-jazz"],
+    "west coast jazz": ["cool-jazz"],
+    "chamber jazz": ["cool-jazz"],
+    "third stream": ["cool-jazz"],
+
+    "hard bop": ["hard-bop"],
+    "hardbop": ["hard-bop"],
+
+    "soul jazz": ["soul-jazz"],
+    "boogaloo": ["soul-jazz"],
+    "jazz organ": ["soul-jazz"],
+    "organ trio": ["soul-jazz"],
+    "groove jazz": ["soul-jazz"],
+
+    "modal jazz": ["modal-jazz"],
+    "modal": ["modal-jazz"],
+
+    "free jazz": ["free-jazz"],
+    "avant-garde jazz": ["free-jazz"],
+    "avant garde jazz": ["free-jazz"],
+    "free improvisation": ["free-jazz"],
+    "energy music": ["free-jazz"],
+    "spiritual jazz": ["free-jazz"],
+    "loft jazz": ["free-jazz"],
+
+    "post-bop": ["post-bop"],
+    "post bop": ["post-bop"],
+    "postbop": ["post-bop"],
+
+    "fusion": ["jazz-fusion"],
+    "jazz fusion": ["jazz-fusion"],
+    "jazz-rock": ["jazz-fusion"],
+    "jazz rock": ["jazz-fusion"],
+    "electric jazz": ["jazz-fusion"],
+    "jazz funk": ["jazz-fusion"],
+    "jazz-funk": ["jazz-fusion"],
+    "funk jazz": ["jazz-fusion"],
+
+    "smooth jazz": ["smooth-jazz"],
+    "contemporary jazz": ["smooth-jazz"],
+    "instrumental pop": ["smooth-jazz"],
+
+    "acid jazz": ["acid-jazz"],
+    "nu jazz": ["acid-jazz"],
+    "nu-jazz": ["acid-jazz"],
+    "jazz house": ["acid-jazz"],
+    "broken beat": ["acid-jazz"],
+
+    "blues": ["other"],
+    "gospel": ["other"],
+    "funk": ["other"],
+    "soul": ["other"],
+    "r&b": ["other"],
+    "rhythm and blues": ["other"],
+    "hip hop": ["other"],
+    "jazz rap": ["other"],
+    "world fusion": ["other"],
+    "world music": ["other"],
+    "classical crossover": ["other"],
+    "gypsy jazz": ["other"],
+    "ambient": ["other"]
+  }
+}

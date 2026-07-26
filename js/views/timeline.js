@@ -2,8 +2,10 @@
 
 import { loadData, decadeOf } from "../data.js";
 import { artistCardHtml } from "../components/artist-card.js";
+import { LOCALE } from "../i18n.js";
+import { S } from "../strings.js";
 
-const DECADES = [
+const DECADES_JA = [
   {
     year: 1900,
     label: "1900年代〜1910年代",
@@ -83,8 +85,94 @@ const DECADES = [
   },
 ];
 
+const DECADES_EN = [
+  {
+    year: 1900,
+    label: "1900s–1910s",
+    desc: `Jazz was born from New Orleans brass bands and ragtime, in an era defined by collective
+      improvisation — multiple horns weaving improvised lines together (polyphony) rather than a single soloist.`,
+  },
+  {
+    year: 1920,
+    label: "1920s",
+    desc: `Louis Armstrong's Hot Five and Hot Seven sides established the idea of the individual
+      improvised solo, and jazz's center of gravity spread from New Orleans to Chicago and New York.
+      Composer-arrangers like Jelly Roll Morton also came to prominence.`,
+  },
+  {
+    year: 1930,
+    label: "1930s",
+    desc: `Alongside Depression-era dance hall culture, big-band swing swept the nation. Duke Ellington
+      and Count Basie won mass popularity with sophisticated arrangements, and jazz became mainstream
+      popular music.`,
+  },
+  {
+    year: 1940,
+    label: "1940s",
+    desc: `Charlie Parker and Dizzy Gillespie, jamming at Minton's Playhouse in Harlem, forged the fast,
+      harmonically complex language of bebop — turning jazz from dance music into music for listening.
+      Latin jazz, blending Afro-Cuban rhythms into the tradition, also emerged in this period.`,
+  },
+  {
+    year: 1950,
+    label: "1950s",
+    desc: `Against bebop's intensity, Miles Davis and others introduced the restrained tone of cool
+      jazz, while Art Blakey and Horace Silver built hard bop, which brought back the earthiness of
+      blues and gospel. A golden age of parallel styles took hold.`,
+  },
+  {
+    year: 1960,
+    label: "1960s",
+    desc: `Miles Davis's "Kind of Blue" and John Coltrane's ongoing exploration opened up modal jazz,
+      while Ornette Coleman and Cecil Taylor broke free of tonality and fixed form altogether with free
+      jazz. Post-bop, blending hard bop with modal playing, also took shape.`,
+  },
+  {
+    year: 1970,
+    label: "1970s",
+    desc: `Sparked by Miles Davis's "Bitches Brew," jazz fusion — blending jazz with rock and funk —
+      rose to prominence. Weather Report and Return to Forever pursued new ensemble sounds built
+      around electric instruments.`,
+  },
+  {
+    year: 1980,
+    label: "1980s",
+    desc: `Smooth jazz, pushing fusion toward radio-friendly accessibility, found a wide audience,
+      while a younger generation led by Wynton Marsalis championed a return to the acoustic jazz
+      tradition. The Jazz Messengers remained a proving ground for new talent.`,
+  },
+  {
+    year: 1990,
+    label: "1990s",
+    desc: `Out of the club scene, acid jazz and nu jazz emerged, pairing hip-hop and house beats with
+      jazz. Sampling introduced classic Blue Note-era performances to a new generation of listeners.`,
+  },
+  {
+    year: 2000,
+    label: "2000s",
+    desc: `Genre boundaries grew more fluid still, as a new generation of jazz crossed over with
+      hip-hop and neo-soul. Formidable young players like Esperanza Spalding rose to prominence,
+      continuing to update jazz's vocabulary.`,
+  },
+  {
+    year: 2010,
+    label: "2010s",
+    desc: `Robert Glasper and Kamasi Washington led a new current crossing R&B, hip-hop, and
+      spiritual jazz. In the streaming era, jazz found its way back to a younger generation's ears.`,
+  },
+  {
+    year: 2020,
+    label: "2020s—",
+    desc: `Through the pandemic, artists explored new ways of performing and releasing music, from
+      livestreaming to a DIY ethic. Alongside renewed appreciation for classic albums, a new
+      generation of genre-crossing artists keeps emerging.`,
+  },
+];
+
+const DECADES = LOCALE === "en" ? DECADES_EN : DECADES_JA;
+
 export async function renderTimeline(view) {
-  view.innerHTML = `<div class="loading">読み込み中…</div>`;
+  view.innerHTML = `<div class="loading">${S.loading}</div>`;
   const { artists } = await loadData();
 
   const byDecade = new Map(DECADES.map((d) => [d.year, []]));
@@ -100,21 +188,21 @@ export async function renderTimeline(view) {
   }
 
   const html = `
-    <h1 class="page-title">年表</h1>
-    <p class="page-lead">1900年代から現在まで、活動開始年ごとにアメリカのジャズ・アーティストを辿れます。</p>
+    <h1 class="page-title">${S.timelineTitle}</h1>
+    <p class="page-lead">${S.timelineLead}</p>
     ${DECADES.map((d) => {
       const list = byDecade.get(d.year).sort((a, b) => (a.begin_year - b.begin_year) || a.name.localeCompare(b.name));
       return `
         <section class="decade-block">
           <div class="decade-header">
             <span class="decade-year">${d.label}</span>
-            <span class="chip">${list.length}組</span>
+            <span class="chip">${S.artistsCount(list.length)}</span>
           </div>
           <p class="decade-desc">${d.desc.trim().replace(/\s+/g, " ")}</p>
           <div class="artist-grid">
             ${list.slice(0, 24).map((a) => artistCardHtml(a)).join("")}
           </div>
-          ${list.length > 24 ? `<p style="margin-top:10px"><a href="#/artists?decade=${d.year}">この年代のアーティストをもっと見る(${list.length}組)→</a></p>` : ""}
+          ${list.length > 24 ? `<p style="margin-top:10px"><a href="#/artists?decade=${d.year}">${S.seeMoreArtists(list.length)}</a></p>` : ""}
         </section>
       `;
     }).join("")}

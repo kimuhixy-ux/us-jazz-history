@@ -1,0 +1,202 @@
+[
+  {
+    "term": "Standard",
+    "desc": "A tune from musicals or popular song that jazz musicians have repeatedly performed and recorded. Often called \"The Great American Songbook,\" standards serve as a shared vocabulary and foundation for improvisation."
+  },
+  {
+    "term": "Contrafact",
+    "desc": "A new melody written over the chord changes of an existing standard. Widely used in the bebop era as a way to try out new lines over familiar \"rhythm changes\"-style progressions."
+  },
+  {
+    "term": "Comping",
+    "desc": "The piano or guitar playing chords behind a soloist. More than mere accompaniment, comping is a rhythmic and harmonic dialogue with the soloist."
+  },
+  {
+    "term": "Trading Fours",
+    "desc": "A format where multiple players alternate soloing every four bars. Often used to close out a session, especially in exchanges between a drummer and horn players."
+  },
+  {
+    "term": "Cutting Contest",
+    "desc": "A session format where players of the same instrument compete to outdo one another's improvisation. A proving ground used by both swing-era big-band players and bebop musicians."
+  },
+  {
+    "term": "Chord Changes",
+    "desc": "The sequence of chords underlying a tune, often simply called \"the changes.\" Jazz improvisation is distinguished by building melodic lines while tracking this progression in real time."
+  },
+  {
+    "term": "Walking Bass",
+    "desc": "A bass line built mainly on quarter notes, moving smoothly between chord tones to outline the harmony while keeping steady time. The rhythmic backbone of swing and post-bebop rhythm sections."
+  },
+  {
+    "term": "Blue Note",
+    "desc": "The flattened third, fifth, or seventh degree of a major scale. Rooted in the blues, these notes give jazz its characteristic \"cry\" and pitch bend. The label of the same name, Blue Note Records, is also famed as a hard bop powerhouse."
+  },
+  {
+    "term": "Call and Response",
+    "desc": "A structure where one phrase (the call) is answered by another (the response). Deeply rooted in African American music generally, it appears vividly in gospel and soul jazz."
+  },
+  {
+    "term": "Real-Time Composition",
+    "desc": "A phrase used to describe improvisation: rather than reproducing something written on a page, the musician builds melody, harmony, and rhythm on the spot — sometimes called \"composing in the moment.\""
+  },
+  {
+    "term": "Modal Playing",
+    "desc": "A method of basing improvisation on a specific scale (mode) rather than a chord progression. With fewer harmonic changes within a piece, the player can explore the scale itself more freely — the core idea behind modal jazz."
+  },
+  {
+    "term": "Shedding (Woodshedding)",
+    "desc": "Slang for holing up like it's a woodshed to practice intensively. The phrase captures the culture of disciplined effort behind building technique and phrase vocabulary."
+  },
+  {
+    "term": "Sideman",
+    "desc": "A player who appears on another bandleader's recordings or tours rather than leading their own. Many great musicians built their careers as sidemen, moving between multiple groups."
+  },
+  {
+    "term": "Combo",
+    "desc": "A small group of roughly three to six players, as opposed to a big band. It became the standard performing format for improvisation-centered jazz after bebop."
+  },
+  {
+    "term": "Jam Session",
+    "desc": "An informal gathering where musicians play freely together without a fixed lineup or rehearsal. The 1940s jam sessions in Harlem (at venues like Minton's Playhouse) were the breeding ground for bebop."
+  },
+  {
+    "term": "Syncopation",
+    "desc": "Deliberately shifting rhythmic emphasis to accent weak beats. A fundamental technique behind jazz's sense of drive and swing."
+  },
+  {
+    "term": "Two-Five-One (II-V-I)",
+    "desc": "The most common three-chord sequence in jazz harmony. Much of the theory behind improvised lines and substitute chords is built around this progression."
+  },
+  {
+    "term": "Turnaround",
+    "desc": "A short chord progression that leads smoothly from the end of a chorus back to its beginning. Used at the tune's midpoint, it drives momentum through cyclical chord forms."
+  },
+  {
+    "term": "Voicing",
+    "desc": "How the notes of a given chord are arranged in pitch and order. One of the areas where a pianist's or arranger's individuality shows most clearly."
+  },
+  {
+    "term": "Reharmonization",
+    "desc": "A technique that keeps an existing tune's melody intact while rewriting its chord progression. Often used to give a standard a fresh sound."
+  },
+  {
+    "term": "Outside Playing",
+    "desc": "An improvisational approach that deliberately selects notes outside the current chord or key to build tension. Widely used by free jazz and post-bop players."
+  },
+  {
+    "term": "Lick",
+    "desc": "A specific phrase pattern or stock melodic fragment. Players build up a large vocabulary of licks and combine them in improvisation."
+  },
+  {
+    "term": "Motivic Development",
+    "desc": "A technique of stating a short melodic fragment (a motif) and then transforming and repeating it to build an improvised solo. Sonny Rollins was known for his mastery of this approach."
+  },
+  {
+    "term": "Polyrhythm",
+    "desc": "The layering of different meters or rhythmic patterns at the same time. The complex rhythmic sensibility of African-derived music strongly shapes jazz drumming."
+  },
+  {
+    "term": "Slap Tonguing",
+    "desc": "A saxophone or clarinet technique where the reed's vibration is stopped abruptly with the tongue to produce a popping sound. Widely used in swing-era section playing."
+  },
+  {
+    "term": "Growl",
+    "desc": "A technique on brass or reed instruments that produces a rasping, growling tone. Humming or vocalizing while playing creates a more human, expressive voice — the brass section of Duke Ellington's orchestra is the classic example."
+  },
+  {
+    "term": "Mute Playing",
+    "desc": "A technique of fitting a device (a mute) into the bell of a brass instrument to alter its tone and volume. Different mutes, such as the Harmon mute on trumpet, yield a wide range of colors."
+  },
+  {
+    "term": "Vocalese",
+    "desc": "A technique of writing and singing lyrics that follow an instrumental melody or solo note-for-note. Groups like Lambert, Hendricks & Ross established the form."
+  },
+  {
+    "term": "Front Line",
+    "desc": "The horn players in a band's lineup who stand in front of the rhythm section and carry the melody or solos. Trumpet, saxophone, and trombone typically fill this role."
+  },
+  {
+    "term": "Head Arrangement",
+    "desc": "An arrangement worked out through rehearsal and on-the-spot playing rather than written notation. Widely used by swing-era big bands such as Count Basie's orchestra."
+  },
+  {
+    "term": "One-Horn Lineup",
+    "desc": "A small combo with only a single horn player. This puts the spotlight on the leader's solos and highlights close dialogue with the rhythm section."
+  },
+  {
+    "term": "Pianoless Lineup",
+    "desc": "A combo lineup without a piano. Losing that harmonic anchor, the bass and horn players gain more freedom for contrapuntal interplay — the Gerry Mulligan Quartet is a classic example."
+  },
+  {
+    "term": "Ostinato",
+    "desc": "A technique of repeating a fixed melodic or rhythmic figure. In modal and free jazz, it provides a stable foundation beneath a shifting solo."
+  },
+  {
+    "term": "Riff",
+    "desc": "A short, repeated rhythmic melodic pattern. In swing-era big bands, a horn section repeating a riff behind the soloist became a standard technique."
+  },
+  {
+    "term": "Break",
+    "desc": "A moment where the full ensemble stops playing for an instant and a single player fills the gap with a short unaccompanied phrase. It builds tension and is often used as an entry point into a solo."
+  },
+  {
+    "term": "Cadenza",
+    "desc": "A passage near the end of a piece where a soloist plays freely without accompaniment. Borrowed from classical music, it's a showcase for a soloist's technique."
+  },
+  {
+    "term": "Four Bars (4-Bar Trading)",
+    "desc": "A performance format where soloists alternate every four bars. Often used interchangeably with trading fours, though it's not limited to exchanges with the drummer and can involve multiple players."
+  },
+  {
+    "term": "Tritone Substitution",
+    "desc": "A harmonic technique that replaces a given chord with another dominant seventh chord a tritone away. One of the basic tools of reharmonization since the bebop era."
+  },
+  {
+    "term": "Modal Interchange",
+    "desc": "A technique that borrows chords from a different mode of the same tonic. Used to bring unexpected color into a piece."
+  },
+  {
+    "term": "Backbeat",
+    "desc": "A rhythmic emphasis on the second and fourth beats of a four-beat bar. Marked on the hi-hat or snare drum, it's a fundamental element behind the feeling of swing."
+  },
+  {
+    "term": "Ghost Note",
+    "desc": "A note played without clear attack — muted, faded, or barely sounded. A technique that adds rhythmic shading and groove to a phrase."
+  },
+  {
+    "term": "Bebop Scale",
+    "desc": "A scale that inserts one extra passing tone between chord tones to create an eight-note scale, so that beats and chord tones line up cleanly. Widely used by bebop-era players building fast lines."
+  },
+  {
+    "term": "Pedal Point",
+    "desc": "A technique where the bass sustains or repeats a single note while the harmony above it continues to change. Used to build a climax or heighten tension."
+  },
+  {
+    "term": "Laid Back",
+    "desc": "A relaxed, unhurried feel created by placing notes slightly behind the beat. A subtle technique for generating groove without changing the actual tempo."
+  },
+  {
+    "term": "Harmolodics",
+    "desc": "An original music theory proposed by Ornette Coleman. It treats harmony, melody, and rhythm as equal elements, aiming at playing unbound by fixed tonality."
+  },
+  {
+    "term": "Third Stream",
+    "desc": "A movement that sought to fuse classical composition technique with jazz improvisation. Proposed by Gunther Schuller and practiced by groups such as the Modern Jazz Quartet."
+  },
+  {
+    "term": "Contemporary Jazz",
+    "desc": "A term for jazz of the current era generally, made with a modern sensibility rather than tied to one fixed style. Often used more as a period marker than a genre label."
+  },
+  {
+    "term": "Inside-Outside",
+    "desc": "A way of building a phrase that starts from notes inside a chord, gradually ventures to notes outside it, and returns. It creates a narrative of tension and resolution within an improvised line."
+  },
+  {
+    "term": "Modern Standard",
+    "desc": "A body of tunes written from the 1960s onward, distinct from the traditional Great American Songbook, that became established as jazz repertoire staples — pieces like \"A Love Supreme\" or \"Maiden Voyage\" fall into this category."
+  },
+  {
+    "term": "Liner Notes",
+    "desc": "The written commentary included with a record or CD's packaging. It records background on the work and its performers, helping listeners understand what they're hearing."
+  }
+]

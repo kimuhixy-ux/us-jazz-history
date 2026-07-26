@@ -2,11 +2,12 @@
 
 import { loadData, spotifySearchUrl, appleMusicSearchUrl } from "../data.js";
 import { escapeHtml } from "../router.js";
+import { S } from "../strings.js";
 
 const RESULT_LIMIT = 500;
 
 export async function renderSongs(view, queryString) {
-  view.innerHTML = `<div class="loading">読み込み中…</div>`;
+  view.innerHTML = `<div class="loading">${S.loading}</div>`;
   const { songs } = await loadData();
   const params = new URLSearchParams(queryString || "");
 
@@ -15,11 +16,11 @@ export async function renderSongs(view, queryString) {
   };
 
   view.innerHTML = `
-    <h1 class="page-title">楽曲検索</h1>
-    <p class="page-lead">全${songs.length.toLocaleString()}曲の収録曲タイトルから検索できます。</p>
+    <h1 class="page-title">${S.songsTitle}</h1>
+    <p class="page-lead">${S.songsLead(songs.length)}</p>
 
     <div class="filter-bar">
-      <input type="search" id="qInput" placeholder="曲名で検索…" value="${escapeHtml(state.q)}">
+      <input type="search" id="qInput" placeholder="${S.songSearchPlaceholder}" value="${escapeHtml(state.q)}">
     </div>
     <div class="result-count" id="resultCount"></div>
     <div class="song-list" id="results"></div>
@@ -40,7 +41,7 @@ export async function renderSongs(view, queryString) {
     const q = state.q.trim().toLowerCase();
     if (!q) {
       countEl.textContent = "";
-      resultsEl.innerHTML = `<p class="empty-hint">曲名を入力すると検索結果が表示されます。</p>`;
+      resultsEl.innerHTML = `<p class="empty-hint">${S.songSearchEmpty}</p>`;
       syncUrl();
       return;
     }
@@ -49,13 +50,13 @@ export async function renderSongs(view, queryString) {
     matches.sort((a, b) => a.title.localeCompare(b.title) || a.artistName.localeCompare(b.artistName));
 
     countEl.textContent = matches.length > RESULT_LIMIT
-      ? `${matches.length}件ヒット(先頭${RESULT_LIMIT}件のみ表示。絞り込みを追加してください)`
-      : `${matches.length}件ヒット`;
+      ? S.songHitsCountLimited(matches.length, RESULT_LIMIT)
+      : S.songHitsCount(matches.length);
 
     const shown = matches.slice(0, RESULT_LIMIT);
     resultsEl.innerHTML = shown.length
       ? shown.map((s) => songRowHtml(s)).join("")
-      : `<p class="empty-hint">該当する曲が見つかりませんでした。</p>`;
+      : `<p class="empty-hint">${S.songNoResults}</p>`;
     syncUrl();
   }
 
