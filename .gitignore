@@ -11,3 +11,6 @@ data/tracklist_progress.json
 
 # macOS
 .DS_Store
+
+# Cloudflare Wrangler local deploy cache
+.wrangler/
